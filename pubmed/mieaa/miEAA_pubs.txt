@@ -1,0 +1,3 @@
+Backes C, Khaleeq QT, Meese E, Keller A. miEAA: microRNA enrichment analysis and annotation. Nucleic Acids Res. 2016 Jul 8;44(W1):W110-6. doi: 10.1093/nar/gkw345. Epub 2016 Apr 29. PMID: 27131362; PMCID: PMC4987907.
+
+Backes C, Khaleeq QT, Meese E, Keller A. miEAA: microRNA enrichment analysis and annotation. Nucleic Acids Res. 2016 Jul 8;44(W1):W110-6. doi: 10.1093/nar/gkw345. Epub 2016 Apr 29. PMID: 27131362; PMCID: PMC4987907.
