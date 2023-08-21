@@ -1,0 +1,2624 @@
+PMID- 35126468
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220208
+IS  - 1664-8021 (Print)
+IS  - 1664-8021 (Electronic)
+IS  - 1664-8021 (Linking)
+VI  - 12
+DP  - 2021
+TI  - Non-Invasive microRNA Profiling in Saliva can Serve as a Biomarker of Alcohol 
+      Exposure and Its Effects in Humans.
+PG  - 804222
+LID - 10.3389/fgene.2021.804222 [doi]
+LID - 804222
+AB  - Alcohol Use Disorder (AUD) is one of the most prevalent mental disorders 
+      worldwide. Considering the widespread occurrence of AUD, a reliable, cheap, 
+      non-invasive biomarker of alcohol consumption is desired by healthcare providers, 
+      clinicians, researchers, public health and criminal justice officials. microRNAs 
+      could serve as such biomarkers. They are easily detectable in saliva, which can 
+      be sampled from individuals in a non-invasive manner. Moreover, microRNAs 
+      expression is dynamically regulated by environmental factors, including alcohol. 
+      Since excessive alcohol consumption is a hallmark of alcohol abuse, we have 
+      profiled microRNA expression in the saliva of chronic, heavy alcohol abusers 
+      using microRNA microarrays. We observed significant changes in salivary microRNA 
+      expression caused by excessive alcohol consumption. These changes fell into three 
+      categories: downregulated microRNAs, upregulated microRNAs, and microRNAs 
+      upregulated de novo. Analysis of these combinatorial changes in microRNA 
+      expression suggests dysregulation of specific biological pathways leading to 
+      impairment of the immune system and development of several types of epithelial 
+      cancer. Moreover, some of the altered microRNAs are also modulators of 
+      inflammation, suggesting their contribution to pro-inflammatory mechanisms of 
+      alcohol actions. Establishment of the cellular source of microRNAs in saliva 
+      corroborated these results. We determined that most of the microRNAs in saliva 
+      come from two types of cells: leukocytes involved in immune responses and 
+      inflammation, and buccal cells, involved in development of epithelial, oral 
+      cancers. In summary, we propose that microRNA profiling in saliva can be a 
+      useful, non-invasive biomarker allowing the monitoring of alcohol abuse, as well 
+      as alcohol-related inflammation and early detection of cancer.
+CI  - Copyright © 2022 Mead, Boulghassoul-Pietrzykowska, Wang, Anees, Kinstlinger, Lee, 
+      Hamza, Feng and Pietrzykowski.
+FAU - Mead, Edward A
+AU  - Mead EA
+AD  - Laboratory of Adaptation, Reward and Addiction, Department of Animal Sciences, 
+      Rutgers University, New Brunswick, NJ, United States.
+AD  - Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount 
+      Sinai, New York, NY, United States.
+FAU - Boulghassoul-Pietrzykowska, Nadia
+AU  - Boulghassoul-Pietrzykowska N
+AD  - Laboratory of Adaptation, Reward and Addiction, Department of Animal Sciences, 
+      Rutgers University, New Brunswick, NJ, United States.
+AD  - Mayo Clinic Health System, NWWI, Barron, WI, United States.
+AD  - Department of Medicine, Capital Health, Trenton, NJ, United States.
+AD  - Weight and Life MD, Hamilton, NJ, United States.
+FAU - Wang, Yongping
+AU  - Wang Y
+AD  - Laboratory of Adaptation, Reward and Addiction, Department of Animal Sciences, 
+      Rutgers University, New Brunswick, NJ, United States.
+AD  - Holmdel Township School, Holmdel, NJ, United States.
+FAU - Anees, Onaiza
+AU  - Anees O
+AD  - Laboratory of Adaptation, Reward and Addiction, Department of Animal Sciences, 
+      Rutgers University, New Brunswick, NJ, United States.
+AD  - Virginia Commonwealth University Health, CMH Behavioral Health, South Hill, VA, 
+      United States.
+FAU - Kinstlinger, Noah S
+AU  - Kinstlinger NS
+AD  - Laboratory of Adaptation, Reward and Addiction, Department of Animal Sciences, 
+      Rutgers University, New Brunswick, NJ, United States.
+AD  - Albert Einstein College of Medicine, Bronx, NY, United States.
+FAU - Lee, Maximillian
+AU  - Lee M
+AD  - Laboratory of Adaptation, Reward and Addiction, Department of Animal Sciences, 
+      Rutgers University, New Brunswick, NJ, United States.
+AD  - George Washington University, School of Medicine and Health Sciences, Washington 
+      DC, MA, United States.
+FAU - Hamza, Shireen
+AU  - Hamza S
+AD  - Laboratory of Adaptation, Reward and Addiction, Department of Animal Sciences, 
+      Rutgers University, New Brunswick, NJ, United States.
+AD  - Department of the History of Science, Harvard University, Cambridge, MA, United 
+      States.
+FAU - Feng, Yaping
+AU  - Feng Y
+AD  - Waksman Genomics Core Facility, Rutgers University, Piscataway, NJ, United 
+      States.
+AD  - Bioinformatics Department, Admera Health, South Plainfield, NJ, United States.
+FAU - Pietrzykowski, Andrzej Z
+AU  - Pietrzykowski AZ
+AD  - Laboratory of Adaptation, Reward and Addiction, Department of Animal Sciences, 
+      Rutgers University, New Brunswick, NJ, United States.
+AD  - Weight and Life MD, Hamilton, NJ, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20220120
+PL  - Switzerland
+TA  - Front Genet
+JT  - Frontiers in genetics
+JID - 101560621
+PMC - PMC8812725
+OTO - NOTNLM
+OT  - abuse
+OT  - alcohol
+OT  - array
+OT  - biomarker
+OT  - microRNA
+OT  - profiling
+OT  - saliva
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2022/02/08 06:00
+MHDA- 2022/02/08 06:01
+CRDT- 2022/02/07 05:30
+PHST- 2021/10/29 00:00 [received]
+PHST- 2021/12/13 00:00 [accepted]
+PHST- 2022/02/07 05:30 [entrez]
+PHST- 2022/02/08 06:00 [pubmed]
+PHST- 2022/02/08 06:01 [medline]
+AID - 804222 [pii]
+AID - 10.3389/fgene.2021.804222 [doi]
+PST - epublish
+SO  - Front Genet. 2022 Jan 20;12:804222. doi: 10.3389/fgene.2021.804222. eCollection 
+      2021.
+
+PMID- 35083659
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220420
+LR  - 20220716
+IS  - 1559-1182 (Electronic)
+IS  - 0893-7648 (Print)
+IS  - 0893-7648 (Linking)
+VI  - 59
+IP  - 4
+DP  - 2022 Apr
+TI  - Cerebrospinal Fluid Extracellular Vesicles with Distinct Properties in Autoimmune 
+      Encephalitis and Herpes Simplex Encephalitis.
+PG  - 2441-2455
+LID - 10.1007/s12035-021-02705-2 [doi]
+AB  - Encephalitis mediated by autoantibodies against neuronal antigens and herpes 
+      simplex encephalitis (HSE) are seemingly separate causes of encephalopathy in 
+      adults. Autoimmune encephalitis (AE) is autoimmune in origin, and herpes simplex 
+      encephalitis is infectious. The purpose of this study was to examine the role of 
+      cerebrospinal fluid (CSF) exosomes from patients with antibody-positive AE and 
+      HSE. Towards this, exosomes were isolated from CSF from 13 patients with 
+      anti-N-methyl-D-aspartate receptor (NMDAR) encephalitis, 11 patients with 
+      anti-gamma-aminobutyric acid-B (GABAB) receptor encephalitis, 9 patients with 
+      anti-leucine-rich glioma-inactivated 1 (LGI1) encephalitis, and 8 patients with 
+      anti-contactin-associated protein-like 2 (CASPR2) encephalitis, and 12 control 
+      individuals negative of antibodies against neuronal autoantigens. There were ten 
+      miRNAs highly expressed in patients with anti-NMDAR encephalitis compared to 
+      those in control subjects. Eight miRNAs were found to be lower expressed in 
+      anti-NMDAR encephalitis CSF-derived exosomes. Furthermore, Kyoto Encyclopedia of 
+      Genes and Genomes (KEGG) pathways enriched by AE differential expressed exosomic 
+      miRNAs demonstrated that AE-related exosomic miRNAs may participate as a feedback 
+      regulation in cancer development. In addition, the exosome concentration in CSF 
+      of 9 HSE patients was significantly higher compared to those from 9 HSV( -) 
+      patients. This observation was consistent with the results that exosome 
+      concentration was found to be higher in the animal model which was inoculated 
+      intranasally with HSV-1 compared to controls. Furthermore, western blot 
+      demonstrated that the subunits of NMDAR, GABA(B)R, and AMPAR were detected highly 
+      expressed in exosomes derived from sera of HSV-1-treated animal model compared to 
+      controls. More importantly, exosomes isolated from CSF of HSE patients contained 
+      higher expression levels of two miRNAs encoded by HSV, miR-H2-3p, and miR-H4-3p 
+      compared to those from HSV( -) patients. In summary, HSV may trigger brain 
+      autoimmunity in HSE by presentation of surface autoantigens via exosomes.
+CI  - © 2021. The Author(s).
+FAU - Li, Yongang
+AU  - Li Y
+AD  - Department of Neurology, The First People's Hospital of Wenling, Wenling, China.
+FAU - Gu, Jiachen
+AU  - Gu J
+AD  - Department of Neurology, Shanghai General Hospital, Shanghai Jiao Tong University 
+      School of Medicine, No.86 Wujin Road, Shanghai, 200080, China.
+FAU - Mao, Youbing
+AU  - Mao Y
+AD  - Department of Neuroelectrophysiology, The First People's Hospital of Wenling, 
+      Wenling, China.
+FAU - Wang, Xijia
+AU  - Wang X
+AD  - Department of Neurology, The First People's Hospital of Wenling, Wenling, China.
+FAU - Li, Zongshan
+AU  - Li Z
+AD  - Department of Neurology, School of Medicine, Sir Run Run Shaw Hospital, Zhejiang 
+      University, Hangzhou, China.
+FAU - Xu, Xiaomin
+AU  - Xu X
+AD  - Department of Neurology, School of Medicine, Sir Run Run Shaw Hospital, Zhejiang 
+      University, Hangzhou, China.
+FAU - Chen, Huimin
+AU  - Chen H
+AD  - Department of Neurology, School of Medicine, Sir Run Run Shaw Hospital, Zhejiang 
+      University, Hangzhou, China.
+FAU - Gui, Yaxing
+AU  - Gui Y
+AUID- ORCID: 0000-0002-0466-3608
+AD  - Department of Neurology, Shanghai General Hospital, Shanghai Jiao Tong University 
+      School of Medicine, No.86 Wujin Road, Shanghai, 200080, China. 
+      YaxingGui@shsmu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20220127
+PL  - United States
+TA  - Mol Neurobiol
+JT  - Molecular neurobiology
+JID - 8900963
+RN  - 0 (Autoantibodies)
+RN  - 0 (Autoantigens)
+RN  - 0 (MicroRNAs)
+RN  - Hashimoto's encephalitis
+SB  - IM
+MH  - Animals
+MH  - *Anti-N-Methyl-D-Aspartate Receptor Encephalitis/cerebrospinal fluid/etiology
+MH  - Autoantibodies
+MH  - Autoantigens
+MH  - Encephalitis
+MH  - *Encephalitis, Herpes Simplex/cerebrospinal fluid/complications
+MH  - *Exosomes
+MH  - Hashimoto Disease
+MH  - Humans
+MH  - *MicroRNAs/genetics
+PMC - PMC9016041
+OTO - NOTNLM
+OT  - Autoimmune encephalitis (AE)
+OT  - Exosomes
+OT  - Herpes simplex encephalitis (HSE)
+OT  - microRNAs
+COIS- The authors declare no competing interests.
+EDAT- 2022/01/28 06:00
+MHDA- 2022/04/21 06:00
+CRDT- 2022/01/27 05:52
+PHST- 2021/09/16 00:00 [received]
+PHST- 2021/12/14 00:00 [accepted]
+PHST- 2022/01/28 06:00 [pubmed]
+PHST- 2022/04/21 06:00 [medline]
+PHST- 2022/01/27 05:52 [entrez]
+AID - 10.1007/s12035-021-02705-2 [pii]
+AID - 2705 [pii]
+AID - 10.1007/s12035-021-02705-2 [doi]
+PST - ppublish
+SO  - Mol Neurobiol. 2022 Apr;59(4):2441-2455. doi: 10.1007/s12035-021-02705-2. Epub 
+      2022 Jan 27.
+
+PMID- 33910165
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210726
+LR  - 20210726
+IS  - 1945-4589 (Electronic)
+IS  - 1945-4589 (Linking)
+VI  - 13
+IP  - 9
+DP  - 2021 Apr 27
+TI  - Identification of the miRNA signature associated with survival in patients with 
+      ovarian cancer.
+PG  - 12660-12690
+LID - 10.18632/aging.202940 [doi]
+AB  - Ovarian cancer is a major gynaecological malignant tumor associated with a high 
+      mortality rate. Identifying survival-related variants may improve treatment and 
+      survival in patients with ovarian cancer. In this work, we proposed a support 
+      vector regression (SVR)-based method called OV-SURV, which is incorporated with 
+      an inheritable bi-objective combinatorial genetic algorithm for feature selection 
+      to identify a miRNA signature associated with survival in patients with ovarian 
+      cancer. There were 209 patients with miRNA expression profiles and survival 
+      information of ovarian cancer retrieved from The Cancer Genome Atlas database. 
+      OV-SURV achieved a mean correlation coefficient of 0.77±0.01and a mean absolute 
+      error of 0.69±0.02 years using 10-fold cross-validation. Analysis of the top 
+      ranked miRNAs revealed that the miRNAs, hsa-let-7f, hsa-miR-1237, hsa-miR-98, 
+      hsa-miR-933, and hsa-miR-889, were significantly associated with the survival in 
+      patients with ovarian cancer. Kyoto Encyclopedia of Genes and Genomes pathway 
+      analysis revealed that four of these miRNAs, hsa-miR-182, hsa-miR-34a, 
+      hsa-miR-342, and hsa-miR-1304, were highly enriched in fatty acid biosynthesis, 
+      and the five miRNAs, hsa-let-7f, hsa-miR-34a, hsa-miR-342, hsa-miR-1304, and 
+      hsa-miR-24, were highly enriched in fatty acid metabolism. The prediction model 
+      with the identified miRNA signature consisting of prognostic biomarkers can 
+      benefit therapeutic decision making of ovarian cancer.
+FAU - Sathipati, Srinivasulu Yerukala
+AU  - Sathipati SY
+AD  - Center for Precision Medicine Research, Marshfield Clinic Research Institute, 
+      Marshfield, WI 54449, USA.
+AD  - Institute of Bioinformatics and Systems Biology, National Chiao Tung University, 
+      Hsinchu, Taiwan.
+AD  - Institute of Population Health Sciences, National Health Research Institutes, 
+      Miaoli, Taiwan.
+FAU - Ho, Shinn-Ying
+AU  - Ho SY
+AD  - Institute of Bioinformatics and Systems Biology, National Chiao Tung University, 
+      Hsinchu, Taiwan.
+AD  - Institute of Bioinformatics and Systems Biology, National Yang Ming Chiao Tung 
+      University, Hsinchu, Taiwan.
+AD  - Department of Biological Science and Technology, National Yang Ming Chiao Tung 
+      University, Hsinchu, Taiwan.
+AD  - Center For Intelligent Drug Systems and Smart Bio-devices (IDS2B), National Yang 
+      Ming Chiao Tung University, Hsinchu, Taiwan.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Validation Study
+DEP - 20210427
+PL  - United States
+TA  - Aging (Albany NY)
+JT  - Aging
+JID - 101508617
+RN  - 0 (Biomarkers, Tumor)
+RN  - 0 (Fatty Acids)
+RN  - 0 (MicroRNAs)
+SB  - IM
+MH  - Biomarkers, Tumor/*metabolism
+MH  - Datasets as Topic
+MH  - Fatty Acids/metabolism
+MH  - Female
+MH  - Gene Expression Profiling
+MH  - Gene Expression Regulation, Neoplastic
+MH  - *Gene Regulatory Networks
+MH  - Humans
+MH  - Linear Models
+MH  - Lipogenesis/genetics
+MH  - MicroRNAs/*metabolism
+MH  - Models, Genetic
+MH  - Ovarian Neoplasms/genetics/metabolism/*mortality
+MH  - Prognosis
+MH  - Risk Assessment/methods
+MH  - Support Vector Machine
+MH  - Survival Analysis
+MH  - Transcriptome
+PMC - PMC8148489
+OTO - NOTNLM
+OT  - machine learning
+OT  - miRNA signature
+OT  - ovarian cancer
+OT  - survival estimation
+COIS- CONFLICTS OF INTEREST: The authors declare that they have no conflicts of 
+      interest.
+EDAT- 2021/04/29 06:00
+MHDA- 2021/07/27 06:00
+CRDT- 2021/04/28 20:15
+PHST- 2020/10/30 00:00 [received]
+PHST- 2021/03/23 00:00 [accepted]
+PHST- 2021/04/29 06:00 [pubmed]
+PHST- 2021/07/27 06:00 [medline]
+PHST- 2021/04/28 20:15 [entrez]
+AID - 202940 [pii]
+AID - 10.18632/aging.202940 [doi]
+PST - ppublish
+SO  - Aging (Albany NY). 2021 Apr 27;13(9):12660-12690. doi: 10.18632/aging.202940. 
+      Epub 2021 Apr 27.
+
+PMID- 33017084
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211123
+LR  - 20221005
+IS  - 2211-5463 (Electronic)
+IS  - 2211-5463 (Linking)
+VI  - 10
+IP  - 10
+DP  - 2020 Oct
+TI  - miRNA profiling of primate cervicovaginal lavage and extracellular vesicles 
+      reveals miR-186-5p as a potential antiretroviral factor in macrophages.
+PG  - 2021-2039
+LID - 10.1002/2211-5463.12952 [doi]
+AB  - Cervicovaginal secretions, or their components collected, are referred to as 
+      cervicovaginal lavage (CVL). CVL constituents have utility as biomarkers and play 
+      protective roles in wound healing and against HIV-1 infection. However, several 
+      components of cervicovaginal fluids are less well understood, such as 
+      extracellular RNAs and their carriers, for example, extracellular vesicles (EVs). 
+      EVs comprise a wide array of double-leaflet membrane extracellular particles and 
+      range in diameter from 30 nm to over one micron. The aim of this study was to 
+      determine whether differentially regulated CVL microRNAs (miRNAs) might influence 
+      retrovirus replication. To this end, we characterized EVs and miRNAs of primate 
+      CVL during the menstrual cycle and simian immunodeficiency virus (SIV) infection 
+      of macaques. EVs were enriched by stepped ultracentrifugation, and miRNA profiles 
+      were assessed with a medium-throughput stem-loop/hydrolysis probe qPCR platform. 
+      Whereas hormone cycling was abnormal in infected subjects, EV concentration 
+      correlated with progesterone concentration in uninfected subjects. miRNAs were 
+      present predominantly in the EV-depleted CVL supernatant. Only a small number of 
+      CVL miRNAs changed during the menstrual cycle or SIV infection, for example, 
+      miR-186-5p, which was depleted in retroviral infection. This miRNA inhibited HIV 
+      replication in infected macrophages in vitro. In silico target prediction and 
+      pathway enrichment analyses shed light on the probable functions of miR-186-5p in 
+      hindering HIV infections via immunoregulation, T-cell regulation, disruption of 
+      viral pathways, etc. These results provide further evidence for the potential of 
+      EVs and small RNAs as biomarkers or effectors of disease processes in the 
+      reproductive tract.
+CI  - © 2020 The Authors. Published by FEBS Press and John Wiley & Sons Ltd.
+FAU - Zhao, Zezhou
+AU  - Zhao Z
+AUID- ORCID: 0000-0003-4792-6073
+AD  - Department of Molecular and Comparative Pathobiology, The Johns Hopkins 
+      University School of Medicine, Baltimore, MD, USA.
+FAU - Muth, Dillon C
+AU  - Muth DC
+AD  - Department of Molecular and Comparative Pathobiology, The Johns Hopkins 
+      University School of Medicine, Baltimore, MD, USA.
+FAU - Mulka, Kathleen
+AU  - Mulka K
+AD  - Department of Molecular and Comparative Pathobiology, The Johns Hopkins 
+      University School of Medicine, Baltimore, MD, USA.
+FAU - Liao, Zhaohao
+AU  - Liao Z
+AD  - Department of Molecular and Comparative Pathobiology, The Johns Hopkins 
+      University School of Medicine, Baltimore, MD, USA.
+FAU - Powell, Bonita H
+AU  - Powell BH
+AUID- ORCID: 0000-0003-1979-6822
+AD  - Department of Molecular and Comparative Pathobiology, The Johns Hopkins 
+      University School of Medicine, Baltimore, MD, USA.
+FAU - Hancock, Grace V
+AU  - Hancock GV
+AD  - University of California, Los Angeles, CA, USA.
+FAU - Metcalf Pate, Kelly A
+AU  - Metcalf Pate KA
+AD  - Department of Molecular and Comparative Pathobiology, The Johns Hopkins 
+      University School of Medicine, Baltimore, MD, USA.
+FAU - Witwer, Kenneth W
+AU  - Witwer KW
+AD  - Department of Molecular and Comparative Pathobiology, The Johns Hopkins 
+      University School of Medicine, Baltimore, MD, USA.
+AD  - Department of Neurology, The Johns Hopkins University School of Medicine, 
+      Baltimore, MD, USA.
+LA  - eng
+GR  - U42 OD013117/OD/NIH HHS/United States
+GR  - P30 AI094189/AI/NIAID NIH HHS/United States
+GR  - R21 MH118164/MH/NIMH NIH HHS/United States
+GR  - R01 DA047807/DA/NIDA NIH HHS/United States
+GR  - R33 MH118164/MH/NIMH NIH HHS/United States
+GR  - UG3 CA241694/CA/NCI NIH HHS/United States
+GR  - R01 AI144997/AI/NIAID NIH HHS/United States
+GR  - R01 DA040385/DA/NIDA NIH HHS/United States
+GR  - T32 OD011089/OD/NIH HHS/United States
+GR  - P40 OD013117/OD/NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20200911
+PL  - England
+TA  - FEBS Open Bio
+JT  - FEBS open bio
+JID - 101580716
+RN  - 0 (Biomarkers)
+RN  - 0 (MIRN186 microRNA, human)
+RN  - 0 (MicroRNAs)
+SB  - IM
+MH  - Animals
+MH  - Biomarkers/metabolism
+MH  - Cervix Uteri/metabolism/virology
+MH  - Extracellular Vesicles/*genetics/metabolism
+MH  - Female
+MH  - Gene Expression/genetics
+MH  - Gene Expression Profiling/methods
+MH  - Gene Expression Regulation/genetics
+MH  - HIV Infections/genetics/metabolism
+MH  - Macaca mulatta
+MH  - Macrophages/metabolism/*virology
+MH  - Menstrual Cycle/genetics/physiology
+MH  - MicroRNAs/analysis/*genetics/metabolism
+MH  - Primates/genetics
+MH  - Simian Acquired Immunodeficiency Syndrome/genetics/virology
+MH  - Simian Immunodeficiency Virus/pathogenicity
+MH  - Transcriptome/genetics
+MH  - Vagina/metabolism/virology
+MH  - Vaginal Douching/methods
+PMC - PMC7530394
+OTO - NOTNLM
+OT  - HIV‐1
+OT  - cervicovaginal lavage
+OT  - exosome
+OT  - extracellular vesicle
+OT  - microRNA
+COIS- The authors have no competing interests to declare. The funding organization(s) 
+      played no role in the study design; in the collection, analysis, and 
+      interpretation of the data; in the writing of the report; or in the decision to 
+      submit the report for publication.
+EDAT- 2020/10/06 06:00
+MHDA- 2021/11/24 06:00
+CRDT- 2020/10/05 12:11
+PHST- 2019/12/02 00:00 [received]
+PHST- 2020/06/03 00:00 [revised]
+PHST- 2020/08/13 00:00 [accepted]
+PHST- 2020/10/05 12:11 [entrez]
+PHST- 2020/10/06 06:00 [pubmed]
+PHST- 2021/11/24 06:00 [medline]
+AID - FEB412952 [pii]
+AID - 10.1002/2211-5463.12952 [doi]
+PST - ppublish
+SO  - FEBS Open Bio. 2020 Oct;10(10):2021-2039. doi: 10.1002/2211-5463.12952. Epub 2020 
+      Sep 11.
+
+PMID- 32751181
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200928
+IS  - 2072-6694 (Print)
+IS  - 2072-6694 (Electronic)
+IS  - 2072-6694 (Linking)
+VI  - 12
+IP  - 8
+DP  - 2020 Jul 29
+TI  - Personal Medicine and Bone Metastases: Biomarkers, Micro-RNAs and Bone 
+      Metastases.
+LID - 10.3390/cancers12082109 [doi]
+LID - 2109
+AB  - Bone metastasis is a major cause of morbidity within solid tumours of the breast, 
+      prostate, lung and kidney. Metastasis to the skeleton is associated with a wide 
+      range of complications including bone fractures, spinal cord compression, 
+      hypercalcaemia and increased bone pain. Improved treatments for bone metastasis, 
+      such as the use of anti-bone resorptive bisphosphonate agents, within 
+      post-menopausal women have improved disease-free survival; however, these 
+      treatments are not without side effects. There is thus a need for biomarkers, 
+      which will predict the risk of developing the spread to bone within these 
+      cancers. The application of molecular profiling techniques, together with animal 
+      model systems and engineered cell-lines has enabled the identification of a 
+      series of potential bone-metastasis biomarker molecules predictive of bone 
+      metastasis risk. Some of these biomarker candidates have been validated within 
+      patient-derived samples providing a step towards clinical utility. Recent 
+      developments in multiplex biomarker quantification now enable the simultaneous 
+      measurement of up to 96 micro-RNA/protein molecules in a spatially defined manner 
+      with single-cell resolution, thus enabling the characterisation of the key 
+      molecules active at the sites of pre-metastatic niche formation as well as 
+      tumour-stroma signalling. These technologies have considerable potential to 
+      inform biomarker discovery. Additionally, a potential future extension of these 
+      discoveries could also be the identification of novel drug targets within cancer 
+      spread to bone. This chapter summarises recent findings in biomarker discovery 
+      within the key bone metastatic cancers (breast, prostate, lung and renal cell 
+      carcinoma). Tissue-based and circulating blood-based biomarkers are discussed 
+      from the fields of genomics, epigenetic regulation (micro-RNAs) and 
+      protein/cell-signalling together with a discussion of the potential future 
+      development of these markers towards clinical development.
+FAU - Wood, Steven L
+AU  - Wood SL
+AD  - Department of Oncology and Metabolism, Medical School, Beech Hill Road, Sheffield 
+      S10 2RX, UK.
+FAU - Brown, Janet E
+AU  - Brown JE
+AD  - Department of Oncology and Metabolism, Weston Park Hospital, Whitham Road, 
+      Sheffield S10 2SJ, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200729
+PL  - Switzerland
+TA  - Cancers (Basel)
+JT  - Cancers
+JID - 101526829
+PMC - PMC7465268
+OTO - NOTNLM
+OT  - biomarkers
+OT  - bone metastatic cancers
+OT  - bone microenvironment
+OT  - micro-RNA
+OT  - personalised medicine
+OT  - proteins
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/08/06 06:00
+MHDA- 2020/08/06 06:01
+CRDT- 2020/08/06 06:00
+PHST- 2020/07/03 00:00 [received]
+PHST- 2020/07/24 00:00 [revised]
+PHST- 2020/07/24 00:00 [accepted]
+PHST- 2020/08/06 06:00 [entrez]
+PHST- 2020/08/06 06:00 [pubmed]
+PHST- 2020/08/06 06:01 [medline]
+AID - cancers12082109 [pii]
+AID - cancers-12-02109 [pii]
+AID - 10.3390/cancers12082109 [doi]
+PST - epublish
+SO  - Cancers (Basel). 2020 Jul 29;12(8):2109. doi: 10.3390/cancers12082109.
+
+PMID- 32412186
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210428
+LR  - 20210428
+IS  - 1582-4934 (Electronic)
+IS  - 1582-1838 (Print)
+IS  - 1582-1838 (Linking)
+VI  - 24
+IP  - 13
+DP  - 2020 Jul
+TI  - A five-microRNA signature for individualized prognosis evaluation and 
+      radiotherapy guidance in patients with diffuse lower-grade glioma.
+PG  - 7504-7514
+LID - 10.1111/jcmm.15377 [doi]
+AB  - Despite the prognostic value of IDH and other gene mutations found in diffuse 
+      glioma, markers that judge individual prognosis of patients with diffuse 
+      lower-grade glioma (LGG) are still lacking. This study aims to develop an 
+      expression-based microRNA signature to provide survival and radiotherapeutic 
+      response prediction for LGG patients. MicroRNA expression profiles and relevant 
+      clinical information of LGG patients were downloaded from The Cancer Genome Atlas 
+      (TCGA; the training group) and the Chinese Glioma Genome Atlas (CGGA; the test 
+      group). Cox regression analysis, random survival forests-variable hunting (RSFVH) 
+      screening and receiver operating characteristic (ROC) were used to identify the 
+      prognostic microRNA signature. ROC and TimeROC curves were plotted to compare the 
+      predictive ability of IDH mutation and the signature. Stratification analysis was 
+      conducted in patients with radiotherapy information. Gene ontology (GO) analysis 
+      and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analysis were 
+      performed to explore the biological function of the signature. We identified a 
+      five-microRNA signature that can classify patients into low-risk or high-risk 
+      group with significantly different survival in the training and test datasets 
+      (P < 0.001). The five-microRNA signature was proved to be superior to IDH 
+      mutation in survival prediction (AUCtraining = 0.688 vs 0.607). Stratification 
+      analysis found the signature could further divide patients after radiotherapy 
+      into two risk groups. GO and KEGG analyses revealed that microRNAs from the 
+      prognostic signature were mainly enriched in cancer-associated pathways. The 
+      newly discovered five-microRNA signature could predict survival and 
+      radiotherapeutic response of LGG patients based on individual microRNA 
+      expression.
+CI  - © 2020 The Authors. Journal of Cellular and Molecular Medicine published by 
+      Foundation for Cellular and Molecular Medicine and John Wiley & Sons Ltd.
+FAU - Zhang, Jian-Hua
+AU  - Zhang JH
+AD  - Department of Blood Transfusion, Peking University People's Hospital, Beijing, 
+      China.
+FAU - Hou, Ruiqin
+AU  - Hou R
+AD  - Department of Blood Transfusion, Peking University People's Hospital, Beijing, 
+      China.
+FAU - Pan, Yuhualei
+AU  - Pan Y
+AD  - Experimental and Translational Research Center, Beijing Friendship Hospital, 
+      Affiliated to the Capital University of Medical Sciences, Beijing, China.
+FAU - Gao, Yuhan
+AU  - Gao Y
+AD  - Department of Blood Transfusion, Peking University People's Hospital, Beijing, 
+      China.
+FAU - Yang, Ying
+AU  - Yang Y
+AD  - Department of Blood Transfusion, Peking University People's Hospital, Beijing, 
+      China.
+FAU - Tian, Wenqin
+AU  - Tian W
+AD  - Department of Blood Transfusion, Peking University People's Hospital, Beijing, 
+      China.
+FAU - Zhu, Yan-Bing
+AU  - Zhu YB
+AUID- ORCID: 0000-0002-9360-0632
+AD  - Experimental and Translational Research Center, Beijing Friendship Hospital, 
+      Affiliated to the Capital University of Medical Sciences, Beijing, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200515
+PL  - England
+TA  - J Cell Mol Med
+JT  - Journal of cellular and molecular medicine
+JID - 101083777
+RN  - 0 (MicroRNAs)
+RN  - EC 1.1.1.41 (Isocitrate Dehydrogenase)
+SB  - IM
+MH  - Adult
+MH  - Brain Neoplasms/*genetics/pathology/*radiotherapy
+MH  - Databases, Genetic
+MH  - Female
+MH  - *Gene Expression Profiling
+MH  - *Gene Expression Regulation, Neoplastic
+MH  - Glioma/*genetics/pathology/*radiotherapy
+MH  - Humans
+MH  - Isocitrate Dehydrogenase/genetics
+MH  - Kaplan-Meier Estimate
+MH  - Male
+MH  - MicroRNAs/*genetics/metabolism
+MH  - Middle Aged
+MH  - Multivariate Analysis
+MH  - Mutation/genetics
+MH  - Neoplasm Grading
+MH  - Prognosis
+MH  - Proportional Hazards Models
+MH  - Survival Analysis
+PMC - PMC7339211
+OTO - NOTNLM
+OT  - diffuse lower-grade glioma
+OT  - microRNA
+OT  - prognostic
+OT  - radiotherapeutic response
+OT  - signature
+COIS- The authors confirm that there are no conflicts of interest.
+EDAT- 2020/05/16 06:00
+MHDA- 2021/04/29 06:00
+CRDT- 2020/05/16 06:00
+PHST- 2020/02/24 00:00 [received]
+PHST- 2020/04/20 00:00 [revised]
+PHST- 2020/04/22 00:00 [accepted]
+PHST- 2020/05/16 06:00 [pubmed]
+PHST- 2021/04/29 06:00 [medline]
+PHST- 2020/05/16 06:00 [entrez]
+AID - JCMM15377 [pii]
+AID - 10.1111/jcmm.15377 [doi]
+PST - ppublish
+SO  - J Cell Mol Med. 2020 Jul;24(13):7504-7514. doi: 10.1111/jcmm.15377. Epub 2020 May 
+      15.
+
+PMID- 32340530
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210310
+LR  - 20221207
+IS  - 2047-9980 (Electronic)
+IS  - 2047-9980 (Linking)
+VI  - 9
+IP  - 9
+DP  - 2020 May 5
+TI  - Cardiovascular Risk and Resilience Among Black Adults: Rationale and Design of 
+      the MECA Study.
+PG  - e015247
+LID - 10.1161/JAHA.119.015247 [doi]
+LID - e015247
+AB  - Background Cardiovascular disease incidence, prevalence, morbidity, and mortality 
+      have declined in the past several decades; however, disparities persist among 
+      subsets of the population. Notably, blacks have not experienced the same 
+      improvements on the whole as whites. Furthermore, frequent reports of relatively 
+      poorer health statistics among the black population have led to a broad 
+      assumption that black race reliably predicts relatively poorer health outcomes. 
+      However, substantial intraethnic and intraracial heterogeneity exists; moreover, 
+      individuals with similar risk factors and environmental exposures are often known 
+      to experience vastly different cardiovascular health outcomes. Thus, some 
+      individuals have good outcomes even in the presence of cardiovascular risk 
+      factors, a concept known as resilience. Methods and Results The MECA 
+      (Morehouse-Emory Center for Health Equity) Study was designed to investigate the 
+      multilevel exposures that contribute to "resilience" in the face of risk for poor 
+      cardiovascular health among blacks in the greater Atlanta, GA, metropolitan area. 
+      We used census tract data to determine "at-risk" and "resilient" neighborhoods 
+      with high or low prevalence of cardiovascular morbidity and mortality, based on 
+      cardiovascular death, hospitalization, and emergency department visits for 
+      blacks. More than 1400 individuals from these census tracts assented to 
+      demographic, health, and psychosocial questionnaires administered through 
+      telephone surveys. Afterwards, ≈500 individuals were recruited to enroll in a 
+      clinical study, where risk biomarkers, such as oxidative stress, and inflammatory 
+      markers, endothelial progenitor cells, metabolomic and microRNA profiles, and 
+      subclinical vascular dysfunction were measured. In addition, comprehensive 
+      behavioral questionnaires were collected and ideal cardiovascular health metrics 
+      were assessed using the American Heart Association's Life Simple 7 measure. Last, 
+      150 individuals with low Life Simple 7 were recruited and randomized to a 
+      behavioral mobile health (eHealth) plus health coach or eHealth only intervention 
+      and followed up for improvement. Conclusions The MECA Study is investigating 
+      socioenvironmental and individual behavioral measures that promote resilience to 
+      cardiovascular disease in blacks by assessing biological, functional, and 
+      molecular mechanisms. REGISTRATION URL: https://www.clini​caltr​ials.gov. Unique 
+      identifier: NCT03308812.
+FAU - Islam, Shabatun J
+AU  - Islam SJ
+AD  - Division of Cardiology Department of Medicine Emory University School of Medicine 
+      Atlanta GA.
+FAU - Kim, Jeong Hwan
+AU  - Kim JH
+AD  - Division of Cardiology Department of Medicine Emory University School of Medicine 
+      Atlanta GA.
+FAU - Topel, Matthew
+AU  - Topel M
+AD  - Division of Cardiology Department of Medicine Emory University School of Medicine 
+      Atlanta GA.
+FAU - Liu, Chang
+AU  - Liu C
+AD  - Division of Cardiology Department of Medicine Emory University School of Medicine 
+      Atlanta GA.
+AD  - Department of Epidemiology Rollins School of Public Health Emory University 
+      Atlanta GA.
+FAU - Ko, Yi-An
+AU  - Ko YA
+AD  - Department of Biostatistics and Bioinformatics Rollins School of Public Health 
+      Emory University Atlanta GA.
+FAU - Mujahid, Mahasin S
+AU  - Mujahid MS
+AD  - Division of Epidemiology School of Public Health University of California 
+      Berkeley CA.
+FAU - Sims, Mario
+AU  - Sims M
+AD  - Department of Medicine University of Mississippi Medical Center Jackson MS.
+FAU - Mubasher, Mohamed
+AU  - Mubasher M
+AD  - Department of Community Health and Preventive Medicine Morehouse School of 
+      Medicine Atlanta GA.
+FAU - Ejaz, Kiran
+AU  - Ejaz K
+AD  - Division of Cardiology Department of Medicine Emory University School of Medicine 
+      Atlanta GA.
+FAU - Morgan-Billingslea, Jan
+AU  - Morgan-Billingslea J
+AD  - Department of Community Health and Preventive Medicine Morehouse School of 
+      Medicine Atlanta GA.
+FAU - Jones, Kia
+AU  - Jones K
+AD  - Division of Cardiology Department of Medicine Emory University School of Medicine 
+      Atlanta GA.
+FAU - Waller, Edmund K
+AU  - Waller EK
+AD  - Department of Hematology and Oncology Winship Cancer Institute Emory University 
+      School of Medicine Atlanta GA.
+FAU - Jones, Dean
+AU  - Jones D
+AD  - Division of Pulmonary, Allergy, Critical Care and Sleep Medicine Department of 
+      Medicine Emory University School of Medicine Atlanta GA.
+FAU - Uppal, Karan
+AU  - Uppal K
+AD  - Division of Pulmonary, Allergy, Critical Care and Sleep Medicine Department of 
+      Medicine Emory University School of Medicine Atlanta GA.
+FAU - Dunbar, Sandra B
+AU  - Dunbar SB
+AD  - Nell Hodgson Woodruff School of Nursing Emory University Atlanta GA.
+FAU - Pemu, Priscilla
+AU  - Pemu P
+AD  - Department of Medicine Morehouse School of Medicine Atlanta GA.
+FAU - Vaccarino, Viola
+AU  - Vaccarino V
+AD  - Division of Cardiology Department of Medicine Emory University School of Medicine 
+      Atlanta GA.
+AD  - Department of Epidemiology Rollins School of Public Health Emory University 
+      Atlanta GA.
+FAU - Searles, Charles D
+AU  - Searles CD
+AD  - Division of Cardiology Department of Medicine Emory University School of Medicine 
+      Atlanta GA.
+FAU - Baltrus, Peter
+AU  - Baltrus P
+AD  - Department of Community Health and Preventive Medicine Morehouse School of 
+      Medicine Atlanta GA.
+AD  - National Center for Primary Care Morehouse School of Medicine Atlanta GA.
+FAU - Lewis, Tené T
+AU  - Lewis TT
+AD  - Department of Epidemiology Rollins School of Public Health Emory University 
+      Atlanta GA.
+FAU - Quyyumi, Arshed A
+AU  - Quyyumi AA
+AD  - Division of Cardiology Department of Medicine Emory University School of Medicine 
+      Atlanta GA.
+FAU - Taylor, Herman
+AU  - Taylor H
+AD  - Department of Medicine Morehouse School of Medicine Atlanta GA.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT03308812
+GR  - T32 HL007745/HL/NHLBI NIH HHS/United States
+GR  - T32 HL130025/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200428
+PL  - England
+TA  - J Am Heart Assoc
+JT  - Journal of the American Heart Association
+JID - 101580524
+SB  - IM
+MH  - Adult
+MH  - *Black or African American/psychology
+MH  - Aged
+MH  - Cardiovascular Diseases/*ethnology/mortality/prevention & control/psychology
+MH  - Female
+MH  - Georgia/epidemiology
+MH  - Health Behavior/ethnology
+MH  - Health Knowledge, Attitudes, Practice/ethnology
+MH  - *Health Status Disparities
+MH  - Heart Disease Risk Factors
+MH  - Humans
+MH  - Life Style/ethnology
+MH  - Male
+MH  - Middle Aged
+MH  - Prevalence
+MH  - Preventive Health Services
+MH  - Prognosis
+MH  - Race Factors
+MH  - Research Design
+MH  - Risk Assessment
+MH  - Social Determinants of Health/*ethnology
+MH  - Socioeconomic Factors
+MH  - Urban Health/*ethnology
+PMC - PMC7428584
+OTO - NOTNLM
+OT  - cardiovascular disease prevention
+OT  - disparities
+OT  - race and ethnicity
+OT  - risk factor
+EDAT- 2020/04/29 06:00
+MHDA- 2021/03/11 06:00
+CRDT- 2020/04/29 06:00
+PHST- 2020/04/29 06:00 [pubmed]
+PHST- 2021/03/11 06:00 [medline]
+PHST- 2020/04/29 06:00 [entrez]
+AID - JAH35078 [pii]
+AID - 10.1161/JAHA.119.015247 [doi]
+PST - ppublish
+SO  - J Am Heart Assoc. 2020 May 5;9(9):e015247. doi: 10.1161/JAHA.119.015247. Epub 
+      2020 Apr 28.
+
+PMID- 31649663
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201028
+LR  - 20201028
+IS  - 1664-3224 (Electronic)
+IS  - 1664-3224 (Linking)
+VI  - 10
+DP  - 2019
+TI  - Determining Immune and miRNA Biomarkers Related to Respiratory Syncytial Virus 
+      (RSV) Vaccine Types.
+PG  - 2323
+LID - 10.3389/fimmu.2019.02323 [doi]
+LID - 2323
+AB  - Respiratory Syncytial Virus (RSV) causes serious respiratory tract illness and 
+      substantial morbidity and some mortality in populations at the extremes of age, 
+      i.e., infants, young children, and the elderly. To date, RSV vaccine development 
+      has been unsuccessful, a feature linked to the lack of biomarkers available to 
+      assess the safety and efficacy of RSV vaccine candidates. We examined microRNAs 
+      (miR) as potential biomarkers for different types of RSV vaccine candidates. In 
+      this study, mice were vaccinated with a live attenuated RSV candidate that lacks 
+      the small hydrophobic (SH) and attachment (G) proteins (CP52), an RSV G protein 
+      microparticle (GA2-MP) vaccine, a formalin-inactivated RSV (FI-RSV) vaccine or 
+      were mock-treated. Several immunological endpoints and miR expression profiles 
+      were determined in mouse serum and bronchoalveolar lavage (BAL) following vaccine 
+      priming, boost, and RSV challenge. We identified miRs that were linked with 
+      immunological parameters of disease and protection. We show that miRs are 
+      potential biomarkers providing valuable insights for vaccine development.
+CI  - Copyright © 2019 Atherton, Jorquera, Bakre and Tripp.
+FAU - Atherton, Lydia J
+AU  - Atherton LJ
+AD  - Department of Infectious Diseases, College of Veterinary Medicine, University of 
+      Georgia, Athens, GA, United States.
+FAU - Jorquera, Patricia A
+AU  - Jorquera PA
+AD  - Department of Infectious Diseases, College of Veterinary Medicine, University of 
+      Georgia, Athens, GA, United States.
+FAU - Bakre, Abhijeet A
+AU  - Bakre AA
+AD  - Department of Infectious Diseases, College of Veterinary Medicine, University of 
+      Georgia, Athens, GA, United States.
+FAU - Tripp, Ralph A
+AU  - Tripp RA
+AD  - Department of Infectious Diseases, College of Veterinary Medicine, University of 
+      Georgia, Athens, GA, United States.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20191009
+PL  - Switzerland
+TA  - Front Immunol
+JT  - Frontiers in immunology
+JID - 101560960
+RN  - 0 (Biomarkers)
+RN  - 0 (MicroRNAs)
+RN  - 0 (Respiratory Syncytial Virus Vaccines)
+SB  - IM
+MH  - Animals
+MH  - Biomarkers
+MH  - Female
+MH  - *Immunization
+MH  - Lung/*immunology/pathology
+MH  - Mice
+MH  - Mice, Inbred BALB C
+MH  - MicroRNAs/*immunology
+MH  - Respiratory Syncytial Virus Infections/immunology/prevention & control
+MH  - Respiratory Syncytial Virus Vaccines/*immunology
+MH  - Respiratory Syncytial Virus, Human/*immunology
+PMC - PMC6794384
+OTO - NOTNLM
+OT  - RSV
+OT  - disease
+OT  - immune
+OT  - miR
+OT  - microRNA
+OT  - vaccines
+EDAT- 2019/10/28 06:00
+MHDA- 2020/10/29 06:00
+CRDT- 2019/10/26 06:00
+PHST- 2018/12/16 00:00 [received]
+PHST- 2019/09/13 00:00 [accepted]
+PHST- 2019/10/26 06:00 [entrez]
+PHST- 2019/10/28 06:00 [pubmed]
+PHST- 2020/10/29 06:00 [medline]
+AID - 10.3389/fimmu.2019.02323 [doi]
+PST - epublish
+SO  - Front Immunol. 2019 Oct 9;10:2323. doi: 10.3389/fimmu.2019.02323. eCollection 
+      2019.
+
+PMID- 30867694
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 1792-0981 (Print)
+IS  - 1792-1015 (Electronic)
+IS  - 1792-0981 (Linking)
+VI  - 17
+IP  - 3
+DP  - 2019 Mar
+TI  - Downregulation of microRNA-374a predicts poor prognosis in human glioma.
+PG  - 2077-2084
+LID - 10.3892/etm.2019.7190 [doi]
+AB  - Certain microRNAs (miRNAs/miRs) may be used as prognostic biomarkers in various 
+      types of cancer. The purpose of the present study was to identify miRNAs that 
+      were abnormally expressed in glioma of different grades, and to evaluate their 
+      clinical implications in patients with glioma. The differentially expressed 
+      miRNAs were evaluated from the expression profiles of six glioma tissues (three 
+      low-grade and three high-grade gliomas) determined using a microarray platform. 
+      Reverse transcription-quantitative polymerase chain reaction analysis was used to 
+      further verify the aberrant expression of the candidate miRNA in a set of 42 
+      patients and 5 healthy controls. The miRNA target genes were predicted and the 
+      protein-protein interaction network was generated; furthermore, functional 
+      enrichment analysis of the target genes in Gene Ontology (GO) terms and Kyoto 
+      Encyclopedia of Genes and Genomes (KEGG) pathways was performed. Kaplan-Meier 
+      curves and Log-rank analysis, as well as multivariate Cox regression analysis 
+      were performed to assess the association of the candidate miRNA with patient 
+      survival. A total of 15 differentially expressed miRNAs, including 13 
+      downregulated and 2 upregulated miRNAs, were identified by comparison of 
+      low-grade and high-grade glioma tissues. The miR-374a expression of high-grade 
+      gliomas was significantly lower than that of low-grade gliomas (fold change, 
+      -4.43; P=0.027). The expression levels of miR-374a gradually decreased with the 
+      increase of the pathological grade of glioma. Pearson's Chi-square test was used 
+      to determine the association of miR-374a expression with several 
+      clinicopathological factors. Furthermore, low expression of miR-374a was 
+      determined to be an independent prognostic marker and that it was significantly 
+      associated with overall survival (P=0.0213). GO and KEGG pathway analysis 
+      revealed that the target genes of miR-374a may be involved in the regulation of 
+      the RNA polymerase II promoter and mTOR signaling pathway. The four hub genes 
+      (CCND1, SP1, CDK4, CDK6) were also identified by PPI network analysis. In 
+      conclusion, the present study indicated that miR-374a may be used as a promising 
+      prognostic biomarker for the screening of high-risk populations and for the 
+      assessment of the prognosis of patients with glioma.
+FAU - Dong, Qiang
+AU  - Dong Q
+AD  - Department of Neurosurgery, The Second Hospital of Lanzhou University, Lanzhou, 
+      Gansu 730030, P.R. China.
+FAU - Yuan, Guoqiang
+AU  - Yuan G
+AD  - Institute of Neurology, The Second Hospital of Lanzhou University, Lanzhou, Gansu 
+      730030, P.R. China.
+FAU - Liu, Min
+AU  - Liu M
+AD  - Department of Pharmacy, Hebei North University, Zhangjiakou, Hebei 075000, P.R. 
+      China.
+FAU - Xie, Qiqi
+AU  - Xie Q
+AD  - Department of Orthopaedics, The Second Hospital of Lanzhou University, Lanzhou, 
+      Gansu 730030, P.R. China.
+FAU - Hu, Jianhong
+AU  - Hu J
+AD  - Department of Neurosurgery, The Second Hospital of Lanzhou University, Lanzhou, 
+      Gansu 730030, P.R. China.
+FAU - Wang, Maolin
+AU  - Wang M
+AD  - Department of Neurosurgery, The Second Hospital of Lanzhou University, Lanzhou, 
+      Gansu 730030, P.R. China.
+FAU - Liu, Shangyu
+AU  - Liu S
+AD  - Department of Neurosurgery, The Second Hospital of Lanzhou University, Lanzhou, 
+      Gansu 730030, P.R. China.
+FAU - Ma, Xiaojun
+AU  - Ma X
+AD  - Department of Neurosurgery, The Second Hospital of Lanzhou University, Lanzhou, 
+      Gansu 730030, P.R. China.
+FAU - Pan, Yawen
+AU  - Pan Y
+AD  - Department of Neurosurgery, The Second Hospital of Lanzhou University, Lanzhou, 
+      Gansu 730030, P.R. China.
+AD  - Institute of Neurology, The Second Hospital of Lanzhou University, Lanzhou, Gansu 
+      730030, P.R. China.
+LA  - eng
+PT  - Journal Article
+DEP - 20190121
+PL  - Greece
+TA  - Exp Ther Med
+JT  - Experimental and therapeutic medicine
+JID - 101531947
+PMC - PMC6395951
+OTO - NOTNLM
+OT  - glioma
+OT  - microRNA-374a
+OT  - microarray
+OT  - prognosis
+EDAT- 2019/03/15 06:00
+MHDA- 2019/03/15 06:01
+CRDT- 2019/03/15 06:00
+PHST- 2018/07/08 00:00 [received]
+PHST- 2018/12/03 00:00 [accepted]
+PHST- 2019/03/15 06:00 [entrez]
+PHST- 2019/03/15 06:00 [pubmed]
+PHST- 2019/03/15 06:01 [medline]
+AID - ETM-0-0-7190 [pii]
+AID - 10.3892/etm.2019.7190 [doi]
+PST - ppublish
+SO  - Exp Ther Med. 2019 Mar;17(3):2077-2084. doi: 10.3892/etm.2019.7190. Epub 2019 Jan 
+      21.
+
+PMID- 30178428
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200116
+LR  - 20200309
+IS  - 1868-601X (Electronic)
+IS  - 1868-4483 (Linking)
+VI  - 10
+IP  - 4
+DP  - 2019 Aug
+TI  - Using Extracellular Circulating microRNAs to Classify the Etiological Subtypes of 
+      Ischemic Stroke.
+PG  - 352-361
+LID - 10.1007/s12975-018-0659-2 [doi]
+AB  - There is no effective biological method to classify ischemic stroke subtypes. In 
+      this study, we first performed a systematical gene array study on serum microRNAs 
+      with different ischemic stroke subtypes including 13 normal control subjects 
+      (NCs) and 87 ischemic stroke (IS) patients including 23 cardioembolism (CARD), 26 
+      large artery atherosclerosis (LAA), 27 lacunar infarct (LAC), and 11 stroke of 
+      undetermined etiology (SUE). Validation was performed by using an independent 
+      cohort of 20 NCs and 85 IS patients including 28 CARD, 23 LAA, 18 LAC, and 16 
+      SUE. In the pilot discovery gene array study, we found specific serum microRNA 
+      signatures between different ischemic stroke subtypes (CARD, LAA, LAC, and SUE). 
+      We further validated 6 microRNAs [miR-125b, miR-125a, let-7b, let-7e, miR-7-2-3p, 
+      miR-1908] in a different group of ischemic stroke subtypes by using an 
+      independent cohort of 20 NCs, 28 CARD, 23 LAA, 18 LAC, and 16 SUE. Moreover, 
+      these circulating miRNAs were further detected to be differentially expressed 
+      between pre- vs. post-stroke in different ischemic stroke subtypes. The ROC 
+      analysis showed that miR-125b, miR-125a, let-7b, and let-7e could discriminate 
+      CARD patients from normal controls and other subtypes. Furthermore, ROC curves 
+      shown that miR-7-2-3p and miR-1908 showed significant area-under-the-curve values 
+      in both LAA and LAC patients. In conclusion, these results demonstrated that 
+      circulating miRNAs in sera could be potentially novel risk factors that involve 
+      in the pathogenesis of ischemic stroke subtypes.
+FAU - Gui, YaXing
+AU  - Gui Y
+AD  - Department of Neurology, Sir Run Run Shaw Hospital, Affiliated with School of 
+      Medicine, Zhejiang University, #3 Qingchun East Road, Hangzhou, 310016, Zhejiang, 
+      China. guiyaxing@zju.edu.cn.
+FAU - Xu, ZhongPing
+AU  - Xu Z
+AD  - Washington University School of Medicine, St. Louis, MO, USA.
+FAU - Jin, Tao
+AU  - Jin T
+AD  - Department of Neurology, Sir Run Run Shaw Hospital, Affiliated with School of 
+      Medicine, Zhejiang University, #3 Qingchun East Road, Hangzhou, 310016, Zhejiang, 
+      China.
+FAU - Zhang, LiSan
+AU  - Zhang L
+AD  - Department of Neurology, Sir Run Run Shaw Hospital, Affiliated with School of 
+      Medicine, Zhejiang University, #3 Qingchun East Road, Hangzhou, 310016, Zhejiang, 
+      China.
+FAU - Chen, LiLi
+AU  - Chen L
+AD  - Department of Neurology, Sir Run Run Shaw Hospital, Affiliated with School of 
+      Medicine, Zhejiang University, #3 Qingchun East Road, Hangzhou, 310016, Zhejiang, 
+      China.
+FAU - Hong, Bin
+AU  - Hong B
+AD  - Department of Neurology, Sir Run Run Shaw Hospital, Affiliated with School of 
+      Medicine, Zhejiang University, #3 Qingchun East Road, Hangzhou, 310016, Zhejiang, 
+      China.
+FAU - Xie, Fei
+AU  - Xie F
+AD  - Department of Neurology, Sir Run Run Shaw Hospital, Affiliated with School of 
+      Medicine, Zhejiang University, #3 Qingchun East Road, Hangzhou, 310016, Zhejiang, 
+      China.
+FAU - Lv, Wen
+AU  - Lv W
+AD  - Department of Neurology, Sir Run Run Shaw Hospital, Affiliated with School of 
+      Medicine, Zhejiang University, #3 Qingchun East Road, Hangzhou, 310016, Zhejiang, 
+      China.
+FAU - Hu, XingYue
+AU  - Hu X
+AD  - Department of Neurology, Sir Run Run Shaw Hospital, Affiliated with School of 
+      Medicine, Zhejiang University, #3 Qingchun East Road, Hangzhou, 310016, Zhejiang, 
+      China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20180904
+PL  - United States
+TA  - Transl Stroke Res
+JT  - Translational stroke research
+JID - 101517297
+RN  - 0 (Circulating MicroRNA)
+SB  - IM
+MH  - Aged
+MH  - Brain Ischemia/*blood/*classification/etiology
+MH  - Circulating MicroRNA/*blood
+MH  - Cohort Studies
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Stroke/*blood/*classification/etiology
+OTO - NOTNLM
+OT  - Ischemic stroke
+OT  - MicroRNA
+OT  - Subtype
+EDAT- 2018/09/05 06:00
+MHDA- 2020/01/17 06:00
+CRDT- 2018/09/05 06:00
+PHST- 2018/05/30 00:00 [received]
+PHST- 2018/08/22 00:00 [accepted]
+PHST- 2018/07/19 00:00 [revised]
+PHST- 2018/09/05 06:00 [pubmed]
+PHST- 2020/01/17 06:00 [medline]
+PHST- 2018/09/05 06:00 [entrez]
+AID - 10.1007/s12975-018-0659-2 [pii]
+AID - 10.1007/s12975-018-0659-2 [doi]
+PST - ppublish
+SO  - Transl Stroke Res. 2019 Aug;10(4):352-361. doi: 10.1007/s12975-018-0659-2. Epub 
+      2018 Sep 4.
+
+PMID- 29997117
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190618
+LR  - 20191023
+IS  - 1540-9538 (Electronic)
+IS  - 0022-1007 (Print)
+IS  - 0022-1007 (Linking)
+VI  - 215
+IP  - 8
+DP  - 2018 Aug 6
+TI  - miR-196b target screen reveals mechanisms maintaining leukemia stemness with 
+      therapeutic potential.
+PG  - 2115-2136
+LID - 10.1084/jem.20171312 [doi]
+AB  - We have shown that antagomiR inhibition of miRNA miR-21 and miR-196b activity is 
+      sufficient to ablate MLL-AF9 leukemia stem cells (LSC) in vivo. Here, we used an 
+      shRNA screening approach to mimic miRNA activity on experimentally verified 
+      miR-196b targets to identify functionally important and therapeutically relevant 
+      pathways downstream of oncogenic miRNA in MLL-r AML. We found Cdkn1b (p27(Kip1)) 
+      is a direct miR-196b target whose repression enhanced an embryonic stem cell-like 
+      signature associated with decreased leukemia latency and increased numbers of 
+      leukemia stem cells in vivo. Conversely, elevation of p27(Kip1) significantly 
+      reduced MLL-r leukemia self-renewal, promoted monocytic differentiation of 
+      leukemic blasts, and induced cell death. Antagonism of miR-196b activity or 
+      pharmacologic inhibition of the Cks1-Skp2-containing SCF E3-ubiquitin ligase 
+      complex increased p27(Kip1) and inhibited human AML growth. This work illustrates 
+      that understanding oncogenic miRNA target pathways can identify actionable 
+      targets in leukemia.
+CI  - © 2018 Crown copyright. The government of Australia, Canada, or the UK ("the 
+      Crown") owns the copyright interests of authors who are government employees. The 
+      Crown Copyright is not transferable.
+FAU - Meyer, Sara E
+AU  - Meyer SE
+AUID- ORCID: 0000-0003-2930-748X
+AD  - Division of Immunobiology and Center for Systems Immunology, Cincinnati 
+      Children's Hospital Medical Center, Cincinnati, OH.
+FAU - Muench, David E
+AU  - Muench DE
+AUID- ORCID: 0000-0002-8723-3389
+AD  - Division of Immunobiology and Center for Systems Immunology, Cincinnati 
+      Children's Hospital Medical Center, Cincinnati, OH.
+FAU - Rogers, Andrew M
+AU  - Rogers AM
+AD  - Division of Immunobiology and Center for Systems Immunology, Cincinnati 
+      Children's Hospital Medical Center, Cincinnati, OH.
+FAU - Newkold, Tess J
+AU  - Newkold TJ
+AD  - Division of Immunobiology and Center for Systems Immunology, Cincinnati 
+      Children's Hospital Medical Center, Cincinnati, OH.
+FAU - Orr, Emily
+AU  - Orr E
+AD  - Division of Immunobiology and Center for Systems Immunology, Cincinnati 
+      Children's Hospital Medical Center, Cincinnati, OH.
+FAU - O'Brien, Eric
+AU  - O'Brien E
+AUID- ORCID: 0000-0003-3585-7015
+AD  - Division of Oncology, Cancer and Blood Diseases Institute, Cincinnati Children's 
+      Hospital Medical Center, Cincinnati, OH.
+FAU - Perentesis, John P
+AU  - Perentesis JP
+AD  - Division of Oncology, Cancer and Blood Diseases Institute, Cincinnati Children's 
+      Hospital Medical Center, Cincinnati, OH.
+FAU - Doench, John G
+AU  - Doench JG
+AUID- ORCID: 0000-0002-3707-9889
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA.
+FAU - Lal, Ashish
+AU  - Lal A
+AD  - Regulatory RNAs and Cancer Section, Genetics Branch, National Cancer Institute, 
+      National Institutes of Health, Bethesda, MD.
+FAU - Morris, Patrick J
+AU  - Morris PJ
+AUID- ORCID: 0000-0003-2380-4178
+AD  - Division of Preclinical Innovation, National Center for Advancing Translational 
+      Sciences, National Institutes of Health, Rockville, MD.
+FAU - Thomas, Craig J
+AU  - Thomas CJ
+AD  - Division of Preclinical Innovation, National Center for Advancing Translational 
+      Sciences, National Institutes of Health, Rockville, MD.
+FAU - Lieberman, Judy
+AU  - Lieberman J
+AUID- ORCID: 0000-0002-6200-4715
+AD  - Program in Cellular and Molecular Medicine, Boston Children's Hospital, Boston, 
+      MA.
+AD  - Department of Pediatrics, Harvard Medical School, Boston, MA.
+FAU - McGlinn, Edwina
+AU  - McGlinn E
+AUID- ORCID: 0000-0002-1829-986X
+AD  - EMBL Australia, Australian Regenerative Medicine Institute, Monash University, 
+      Clayton, Victoria, Australia.
+FAU - Aronow, Bruce J
+AU  - Aronow BJ
+AUID- ORCID: 0000-0001-5109-6514
+AD  - Division of Biomedical Informatics, Cincinnati Children's Hospital Medical 
+      Center, Cincinnati, OH.
+FAU - Salomonis, Nathan
+AU  - Salomonis N
+AD  - Division of Biomedical Informatics, Cincinnati Children's Hospital Medical 
+      Center, Cincinnati, OH.
+FAU - Grimes, H Leighton
+AU  - Grimes HL
+AUID- ORCID: 0000-0001-8162-6758
+AD  - Division of Immunobiology and Center for Systems Immunology, Cincinnati 
+      Children's Hospital Medical Center, Cincinnati, OH lee.grimes@cchmc.org.
+AD  - Division of Experimental Hematology and Cancer Biology, Cincinnati Children's 
+      Hospital Medical Center, Cincinnati, OH.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20180711
+PL  - United States
+TA  - J Exp Med
+JT  - The Journal of experimental medicine
+JID - 2985109R
+RN  - 0 (Cyclins)
+RN  - 0 (MIRN196 microRNA, human)
+RN  - 0 (MicroRNAs)
+RN  - 0 (RNA, Small Interfering)
+RN  - 147604-94-2 (Cyclin-Dependent Kinase Inhibitor p27)
+RN  - EC 2.7.11.22 (Cyclin-Dependent Kinases)
+SB  - IM
+MH  - Animals
+MH  - Carcinogenesis/genetics/pathology
+MH  - Cell Differentiation/genetics
+MH  - Cell Line, Tumor
+MH  - Cell Proliferation/genetics
+MH  - Cell Survival/genetics
+MH  - Chromosomes, Human, Pair 11/genetics
+MH  - Cyclin-Dependent Kinase Inhibitor p27/metabolism
+MH  - Cyclin-Dependent Kinases/metabolism
+MH  - Cyclins/metabolism
+MH  - Embryonic Stem Cells/metabolism
+MH  - Gene Expression Regulation, Leukemic
+MH  - Humans
+MH  - Leukemia, Myeloid, Acute/genetics/*pathology/*therapy
+MH  - Mice, Inbred C57BL
+MH  - MicroRNAs/genetics/*metabolism
+MH  - Neoplastic Stem Cells/*metabolism/*pathology
+MH  - Oncogenes
+MH  - RNA, Small Interfering/metabolism
+PMC - PMC6080909
+EDAT- 2018/07/13 06:00
+MHDA- 2019/06/19 06:00
+CRDT- 2018/07/13 06:00
+PHST- 2017/07/25 00:00 [received]
+PHST- 2018/04/30 00:00 [revised]
+PHST- 2018/06/26 00:00 [accepted]
+PHST- 2018/07/13 06:00 [pubmed]
+PHST- 2019/06/19 06:00 [medline]
+PHST- 2018/07/13 06:00 [entrez]
+AID - jem.20171312 [pii]
+AID - 20171312 [pii]
+AID - 10.1084/jem.20171312 [doi]
+PST - ppublish
+SO  - J Exp Med. 2018 Aug 6;215(8):2115-2136. doi: 10.1084/jem.20171312. Epub 2018 Jul 
+      11.
+
+PMID- 29858093
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 2162-2531 (Print)
+IS  - 2162-2531 (Electronic)
+IS  - 2162-2531 (Linking)
+VI  - 11
+DP  - 2018 Jun 1
+TI  - miR-182-5p and miR-183-5p Act as GDNF Mimics in Dopaminergic Midbrain Neurons.
+PG  - 9-22
+LID - S2162-2531(18)30006-4 [pii]
+LID - 10.1016/j.omtn.2018.01.005 [doi]
+AB  - Parkinson's disease (PD) is the second-most-frequent neurodegenerative disorder 
+      worldwide. One major hallmark of PD is the degeneration of dopaminergic (DA) 
+      neurons in the substantia nigra. Glial cell line-derived neurotrophic factor 
+      (GDNF) potently increases DA neuron survival in models of PD; however, the 
+      underlying mechanisms are incompletely understood. MicroRNAs (miRNAs) are small, 
+      non-coding RNAs that are important for post-transcriptional regulation of gene 
+      expression. Using small RNA sequencing, we show that GDNF specifically increases 
+      the expression of miR-182-5p and miR-183-5p in primary midbrain neurons (PMNs). 
+      Transfection of synthetic miR-182-5p and miR-183-5p mimics leads to increased 
+      neurite outgrowth and mediates neuroprotection of DA neurons in vitro and 
+      in vivo, mimicking GDNF effects. This is accompanied by decreased expression of 
+      FOXO3 and FOXO1 transcription factors and increased PI3K-Akt signaling. 
+      Inhibition of endogenous miR-182-5p or miR-183-5p in GDNF-treated PMNs attenuated 
+      the pro-DA effects of GDNF. These findings unveil an unknown miR-mediated 
+      mechanism of GDNF action and suggest that targeting miRNAs is a new therapeutic 
+      avenue to PD phenotypes.
+CI  - Copyright © 2018 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Roser, Anna-Elisa
+AU  - Roser AE
+AD  - Department of Neurology, University Medical Center Göttingen, Robert-Koch-Str. 
+      40, 37075 Göttingen, Lower-Saxony, Germany; DFG Cluster of Excellence Nanoscale 
+      Microscopy and Molecular Physiology of the Brain (CNMPB), University Medical 
+      Center Göttingen, Robert-Koch-Str. 40, 37075 Göttingen, Lower-Saxony, Germany.
+FAU - Caldi Gomes, Lucas
+AU  - Caldi Gomes L
+AD  - Department of Neurology, University Medical Center Göttingen, Robert-Koch-Str. 
+      40, 37075 Göttingen, Lower-Saxony, Germany.
+FAU - Halder, Rashi
+AU  - Halder R
+AD  - Department for Epigenetics and Systems Medicine in Neurodegenerative Diseases, 
+      German Center for Neurodegenerative Diseases (DZNE), Von-Siebold-Str. 3a, 37075 
+      Göttingen, Lower-Saxony, Germany.
+FAU - Jain, Gaurav
+AU  - Jain G
+AD  - Department for Epigenetics and Systems Medicine in Neurodegenerative Diseases, 
+      German Center for Neurodegenerative Diseases (DZNE), Von-Siebold-Str. 3a, 37075 
+      Göttingen, Lower-Saxony, Germany.
+FAU - Maass, Fabian
+AU  - Maass F
+AD  - Department of Neurology, University Medical Center Göttingen, Robert-Koch-Str. 
+      40, 37075 Göttingen, Lower-Saxony, Germany.
+FAU - Tönges, Lars
+AU  - Tönges L
+AD  - Department of Neurology, Ruhr-Universität Bochum, Universitätsstr. 150, 44801 
+      Bochum, NRW, Germany.
+FAU - Tatenhorst, Lars
+AU  - Tatenhorst L
+AD  - Department of Neurology, University Medical Center Göttingen, Robert-Koch-Str. 
+      40, 37075 Göttingen, Lower-Saxony, Germany.
+FAU - Bähr, Mathias
+AU  - Bähr M
+AD  - Department of Neurology, University Medical Center Göttingen, Robert-Koch-Str. 
+      40, 37075 Göttingen, Lower-Saxony, Germany; DFG Cluster of Excellence Nanoscale 
+      Microscopy and Molecular Physiology of the Brain (CNMPB), University Medical 
+      Center Göttingen, Robert-Koch-Str. 40, 37075 Göttingen, Lower-Saxony, Germany.
+FAU - Fischer, André
+AU  - Fischer A
+AD  - DFG Cluster of Excellence Nanoscale Microscopy and Molecular Physiology of the 
+      Brain (CNMPB), University Medical Center Göttingen, Robert-Koch-Str. 40, 37075 
+      Göttingen, Lower-Saxony, Germany; Department for Epigenetics and Systems Medicine 
+      in Neurodegenerative Diseases, German Center for Neurodegenerative Diseases 
+      (DZNE), Von-Siebold-Str. 3a, 37075 Göttingen, Lower-Saxony, Germany; Department 
+      of Psychiatry and Psychotherapy, University Medical Center Göttingen, 
+      Von-Siebold-Str. 3a, 37075 Göttingen, Lower-Saxony, Germany.
+FAU - Lingor, Paul
+AU  - Lingor P
+AD  - Department of Neurology, University Medical Center Göttingen, Robert-Koch-Str. 
+      40, 37075 Göttingen, Lower-Saxony, Germany; DFG Cluster of Excellence Nanoscale 
+      Microscopy and Molecular Physiology of the Brain (CNMPB), University Medical 
+      Center Göttingen, Robert-Koch-Str. 40, 37075 Göttingen, Lower-Saxony, Germany. 
+      Electronic address: plingor@gwdg.de.
+LA  - eng
+PT  - Journal Article
+DEP - 20180202
+PL  - United States
+TA  - Mol Ther Nucleic Acids
+JT  - Molecular therapy. Nucleic acids
+JID - 101581621
+PMC - PMC5849806
+OTO - NOTNLM
+OT  - GDNF
+OT  - MPTP
+OT  - dopaminergic neuron
+OT  - miRNA
+EDAT- 2018/06/03 06:00
+MHDA- 2018/06/03 06:01
+CRDT- 2018/06/03 06:00
+PHST- 2017/08/01 00:00 [received]
+PHST- 2018/01/17 00:00 [revised]
+PHST- 2018/01/17 00:00 [accepted]
+PHST- 2018/06/03 06:00 [entrez]
+PHST- 2018/06/03 06:00 [pubmed]
+PHST- 2018/06/03 06:01 [medline]
+AID - S2162-2531(18)30006-4 [pii]
+AID - 10.1016/j.omtn.2018.01.005 [doi]
+PST - ppublish
+SO  - Mol Ther Nucleic Acids. 2018 Jun 1;11:9-22. doi: 10.1016/j.omtn.2018.01.005. Epub 
+      2018 Feb 2.
+
+PMID- 29849898
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181016
+LR  - 20181114
+IS  - 1942-0994 (Electronic)
+IS  - 1942-0900 (Print)
+IS  - 1942-0994 (Linking)
+VI  - 2018
+DP  - 2018
+TI  - From Oxidative Stress Damage to Pathways, Networks, and Autophagy via MicroRNAs.
+PG  - 4968321
+LID - 10.1155/2018/4968321 [doi]
+LID - 4968321
+AB  - Oxidative stress can alter the expression level of many microRNAs (miRNAs), but 
+      how these changes are integrated and related to oxidative stress responses is 
+      poorly understood. In this article, we addressed this question by using in silico 
+      tools. We reviewed the literature for miRNAs whose expression is altered upon 
+      oxidative stress damage and used them in combination with various databases and 
+      software to predict common gene targets of oxidative stress-modulated miRNAs and 
+      affected pathways. Furthermore, we identified miRNAs that simultaneously target 
+      the predicted oxidative stress-modulated miRNA gene targets. This generated a 
+      list of novel candidate miRNAs potentially involved in oxidative stress 
+      responses. By literature search and grouping of pathways and cellular responses, 
+      we could classify these candidate miRNAs and their targets into a larger scheme 
+      related to oxidative stress responses. To further exemplify the potential of our 
+      approach in free radical research, we used our explorative tools in combination 
+      with ingenuity pathway analysis to successfully identify new candidate miRNAs 
+      involved in the ubiquitination process, a master regulator of cellular responses 
+      to oxidative stress and proteostasis. Lastly, we demonstrate that our approach 
+      may also be useful to identify novel candidate connections between oxidative 
+      stress-related miRNAs and autophagy. In summary, our results indicate novel and 
+      important aspects with regard to the integrated biological roles of oxidative 
+      stress-modulated miRNAs and demonstrate how this type of in silico approach can 
+      be useful as a starting point to generate hypotheses and guide further research 
+      on the interrelation between miRNA-based gene regulation, oxidative stress 
+      signaling pathways, and autophagy.
+FAU - Engedal, Nikolai
+AU  - Engedal N
+AUID- ORCID: 0000-0003-3718-3464
+AD  - Nordic EMBL Partnership for Molecular Medicine, Centre for Molecular Medicine 
+      Norway (NCMM), University of Oslo, P.O. Box 1137, Blindern, 0318 Oslo, Norway.
+FAU - Žerovnik, Eva
+AU  - Žerovnik E
+AUID- ORCID: 0000-0002-9793-8200
+AD  - Department of Biochemistry and Molecular and Structural Biology, Jožef Stefan 
+      Institute and Center of Excellence for Integrated Approaches in Chemistry and 
+      Biology of Proteins (CipKeBip), Ljubljana, Slovenia.
+FAU - Rudov, Alexander
+AU  - Rudov A
+AD  - Department of Biomolecular Sciences, University of Urbino "Carlo Bo", Urbino, 
+      Italy.
+FAU - Galli, Francesco
+AU  - Galli F
+AD  - Laboratory of Clinical Biochemistry and Nutrition, Department of Pharmaceutical 
+      Sciences, University of Perugia, Perugia, Italy.
+FAU - Olivieri, Fabiola
+AU  - Olivieri F
+AD  - Department of Molecular and Clinical Sciences, Marche Polytechnic University, 
+      Ancona, Italy.
+AD  - Center of Clinical Pathology and Innovative Therapy, Italian National Research 
+      Center on Aging INRCA-IRCCS, Ancona, Italy.
+FAU - Procopio, Antonio Domenico
+AU  - Procopio AD
+AD  - Department of Molecular and Clinical Sciences, Marche Polytechnic University, 
+      Ancona, Italy.
+AD  - Center of Clinical Pathology and Innovative Therapy, Italian National Research 
+      Center on Aging INRCA-IRCCS, Ancona, Italy.
+FAU - Rippo, Maria Rita
+AU  - Rippo MR
+AUID- ORCID: 0000-0003-3024-3495
+AD  - Department of Molecular and Clinical Sciences, Marche Polytechnic University, 
+      Ancona, Italy.
+FAU - Monsurrò, Vladia
+AU  - Monsurrò V
+AD  - Department of Medicine, University of Verona, Verona, Italy.
+FAU - Betti, Michele
+AU  - Betti M
+AD  - Department of Biomolecular Sciences, University of Urbino "Carlo Bo", Urbino, 
+      Italy.
+FAU - Albertini, Maria Cristina
+AU  - Albertini MC
+AUID- ORCID: 0000-0003-4549-1475
+AD  - Department of Biomolecular Sciences, University of Urbino "Carlo Bo", Urbino, 
+      Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20180412
+PL  - United States
+TA  - Oxid Med Cell Longev
+JT  - Oxidative medicine and cellular longevity
+JID - 101479826
+RN  - 0 (MicroRNAs)
+SB  - IM
+MH  - Autophagy
+MH  - MicroRNAs/*metabolism
+MH  - Oxidative Stress/*genetics
+MH  - Signal Transduction
+PMC - PMC5932428
+EDAT- 2018/06/01 06:00
+MHDA- 2018/10/17 06:00
+CRDT- 2018/06/01 06:00
+PHST- 2017/09/22 00:00 [received]
+PHST- 2018/03/04 00:00 [accepted]
+PHST- 2018/06/01 06:00 [entrez]
+PHST- 2018/06/01 06:00 [pubmed]
+PHST- 2018/10/17 06:00 [medline]
+AID - 10.1155/2018/4968321 [doi]
+PST - epublish
+SO  - Oxid Med Cell Longev. 2018 Apr 12;2018:4968321. doi: 10.1155/2018/4968321. 
+      eCollection 2018.
+
+PMID- 29688364
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181009
+LR  - 20220409
+IS  - 1758-0463 (Electronic)
+IS  - 1758-0463 (Linking)
+VI  - 2018
+DP  - 2018 Jan 1
+TI  - miRwayDB: a database for experimentally validated microRNA-pathway associations 
+      in pathophysiological conditions.
+LID - 10.1093/database/bay023 [doi]
+LID - bay023
+AB  - http://www.mirway.iitkgp.ac.in.
+FAU - Das, Sankha Subhra
+AU  - Das SS
+AD  - School of Medical Science and Technology, Indian Institute of Technology, 
+      Kharagpur, West Bengal, 721302, India.
+FAU - Saha, Pritam
+AU  - Saha P
+AD  - Cryogenic Engineering Centre, Indian Institute of Technology, Kharagpur, West 
+      Bengal, 721302, India.
+FAU - Chakravorty, Nishant
+AU  - Chakravorty N
+AD  - School of Medical Science and Technology, Indian Institute of Technology, 
+      Kharagpur, West Bengal, 721302, India.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Database (Oxford)
+JT  - Database : the journal of biological databases and curation
+JID - 101517697
+RN  - 0 (MicroRNAs)
+SB  - IM
+MH  - Animals
+MH  - *Computer Simulation
+MH  - *Databases, Nucleic Acid
+MH  - *Gene Expression Regulation
+MH  - Humans
+MH  - *MicroRNAs/biosynthesis/genetics
+MH  - *Models, Biological
+PMC - PMC5829561
+EDAT- 2018/04/25 06:00
+MHDA- 2018/10/10 06:00
+CRDT- 2018/04/25 06:00
+PHST- 2017/11/01 00:00 [received]
+PHST- 2018/02/07 00:00 [accepted]
+PHST- 2018/04/25 06:00 [entrez]
+PHST- 2018/04/25 06:00 [pubmed]
+PHST- 2018/10/10 06:00 [medline]
+AID - 4915493 [pii]
+AID - bay023 [pii]
+AID - 10.1093/database/bay023 [doi]
+PST - ppublish
+SO  - Database (Oxford). 2018 Jan 1;2018:bay023. doi: 10.1093/database/bay023.
+
+PMID- 29636879
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220409
+IS  - 1943-8141 (Print)
+IS  - 1943-8141 (Electronic)
+IS  - 1943-8141 (Linking)
+VI  - 10
+IP  - 3
+DP  - 2018
+TI  - Differential microRNA expression profiles between young and old lung 
+      adenocarcinoma patients.
+PG  - 892-900
+AB  - Lung cancer is the leading cause of cancer-related mortality, and approximately 
+      80% of cases are non-small cell lung cancer (NSCLC). Recently, the incidence of 
+      NSCLC has been quickly increasing, while the age of patients at diagnosis is 
+      decreasing. To date, it is still controversial whether younger patients have 
+      better or worse outcomes compared with their older counterparts. MicroRNAs 
+      (miRNAs) have been defined to play a key role in cancer pathogenesis, and their 
+      aberrant expression has been suggested as a potential biomarker of prognosis in 
+      lung adenocarcinoma. To understand the molecular features of young and old 
+      adenocarcinoma patients, we investigated the expression level of a panel of 
+      miRNAs selected after a mini-literature review. The expression analysis was 
+      performed by the nCounter System® (NanoString Technologies) directly on RNA, 
+      including small RNAs. The analysis revealed that 7 miRNAs (miR-25-3p, miR-29c-3p, 
+      miR-33a-5p, miR-144-3p, miR-153-3p, miR-342-5p and miR-485-3p) were 
+      differentially expressed in the two groups (P<0.05). All of these miRNAs showed 
+      higher expression levels in young compared to old patients, and their predicted 
+      targets included EGFR, MET, VEGF-A, TP53 and PDGFRa. miR-144-3p had an opposite 
+      influence on overall survival since its upregulation was associated with a worse 
+      prognosis in young patients (P=0.01) and with a better outcome in the older group 
+      (P=0.03). We observed that lung cancer in young and old patients may be 
+      influenced by different regulatory mechanisms. Moreover, one of the 
+      down-regulated miRNAs showed a different prognostic impact in the two groups, 
+      confirming that young and old patients deserve a specific clinical approach.
+FAU - Giordano, Mirella
+AU  - Giordano M
+AD  - Department of Surgical, Medical, Molecular Pathology and Critical Area, 
+      University of PisaPisa 56126, Italy.
+FAU - Boldrini, Laura
+AU  - Boldrini L
+AD  - Department of Surgical, Medical, Molecular Pathology and Critical Area, 
+      University of PisaPisa 56126, Italy.
+FAU - Servadio, Adele
+AU  - Servadio A
+AD  - Department of Surgical, Medical, Molecular Pathology and Critical Area, 
+      University of PisaPisa 56126, Italy.
+FAU - Niccoli, Cristina
+AU  - Niccoli C
+AD  - Department of Surgical, Medical, Molecular Pathology and Critical Area, 
+      University of PisaPisa 56126, Italy.
+FAU - Melfi, Franca
+AU  - Melfi F
+AD  - Department of Surgical, Medical, Molecular Pathology and Critical Area, 
+      University of PisaPisa 56126, Italy.
+FAU - Lucchi, Marco
+AU  - Lucchi M
+AD  - Department of Surgical, Medical, Molecular Pathology and Critical Area, 
+      University of PisaPisa 56126, Italy.
+FAU - Mussi, Alfredo
+AU  - Mussi A
+AD  - Department of Surgical, Medical, Molecular Pathology and Critical Area, 
+      University of PisaPisa 56126, Italy.
+FAU - Fontanini, Gabriella
+AU  - Fontanini G
+AD  - Department of Surgical, Medical, Molecular Pathology and Critical Area, 
+      University of PisaPisa 56126, Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20180315
+PL  - United States
+TA  - Am J Transl Res
+JT  - American journal of translational research
+JID - 101493030
+PMC - PMC5883130
+OTO - NOTNLM
+OT  - lung adenocarcinoma
+OT  - miRNA
+OT  - young
+COIS- None.
+EDAT- 2018/04/11 06:00
+MHDA- 2018/04/11 06:01
+CRDT- 2018/04/12 06:00
+PHST- 2017/05/12 00:00 [received]
+PHST- 2017/11/16 00:00 [accepted]
+PHST- 2018/04/12 06:00 [entrez]
+PHST- 2018/04/11 06:00 [pubmed]
+PHST- 2018/04/11 06:01 [medline]
+PST - epublish
+SO  - Am J Transl Res. 2018 Mar 15;10(3):892-900. eCollection 2018.
+
+PMID- 29601548
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200930
+IS  - 2227-9059 (Print)
+IS  - 2227-9059 (Electronic)
+IS  - 2227-9059 (Linking)
+VI  - 6
+IP  - 2
+DP  - 2018 Mar 30
+TI  - Roles of NF-κB Signaling in the Regulation of miRNAs Impacting on Inflammation in 
+      Cancer.
+LID - 10.3390/biomedicines6020040 [doi]
+LID - 40
+AB  - The NF-κB family of transcription factors regulate the expression of genes 
+      encoding proteins and microRNAs (miRNA, miR) precursors that may either 
+      positively or negatively regulate a variety of biological processes such as cell 
+      cycle progression, cell survival, and cell differentiation. The NF-κB-miRNA 
+      transcriptional regulatory network has been implicated in the regulation of 
+      proinflammatory, immune, and stress-like responses. Gene regulation by miRNAs has 
+      emerged as an additional epigenetic mechanism at the post-transcriptional level. 
+      The expression of miRNAs can be regulated by specific transcription factors 
+      (TFs), including the NF-κB TF family, and vice versa. The interplay between TFs 
+      and miRNAs creates positive or negative feedback loops and also regulatory 
+      networks, which can control cell fate. In the current review, we discuss the 
+      impact of NF-κB-miRNA interplay and feedback loops and networks impacting on 
+      inflammation in cancer. We provide several paradigms of specific NF-κB-miRNA 
+      networks that can regulate inflammation linked to cancer. For example, the 
+      NF-κB-miR-146 and NF-κB-miR-155 networks fine-tune the activity, intensity, and 
+      duration of inflammation, while the NF-κB-miR-21 and NF-κB-miR-181b-1 amplifying 
+      loops link inflammation to cancer; and p53- or NF-κB-regulated miRNAs 
+      interconnect these pathways and may shift the balance to cancer development or 
+      tumor suppression. The availability of genomic data may be useful to verify and 
+      find novel interactions, and provide a catalogue of 162 miRNAs targeting and 40 
+      miRNAs possibly regulated by NF-κB. We propose that studying active TF-miRNA 
+      transcriptional regulatory networks such as NF-κB-miRNA networks in specific 
+      cancer types can contribute to our further understanding of the regulatory 
+      interplay between inflammation and cancer, and also perhaps lead to the 
+      development of pharmacologically novel therapeutic approaches to combat cancer.
+FAU - Markopoulos, Georgios S
+AU  - Markopoulos GS
+AUID- ORCID: 0000-0002-7700-7003
+AD  - Laboratory of Biology, School of Medicine, Faculty of Health Sciences, University 
+      of Ioannina, 45110 Ioannina, Greece. gmarkop@cc.uoi.gr.
+AD  - Biomedical Research Division, Institute of Molecular Biology and Biotechnology, 
+      Foundation for Research and Technology, 45110 Ioannina, Greece. 
+      gmarkop@cc.uoi.gr.
+FAU - Roupakia, Eugenia
+AU  - Roupakia E
+AD  - Laboratory of Biology, School of Medicine, Faculty of Health Sciences, University 
+      of Ioannina, 45110 Ioannina, Greece. ev.roupakia@gmail.com.
+AD  - Biomedical Research Division, Institute of Molecular Biology and Biotechnology, 
+      Foundation for Research and Technology, 45110 Ioannina, Greece. 
+      ev.roupakia@gmail.com.
+FAU - Tokamani, Maria
+AU  - Tokamani M
+AD  - Department of Molecular Biology and Genetics, Democritus University of Thrace, 
+      68100 Alexandroupolis, Greece. tokamanimaria@hotmail.com.
+FAU - Alabasi, Georgia
+AU  - Alabasi G
+AD  - Laboratory of Biology, School of Medicine, Faculty of Health Sciences, University 
+      of Ioannina, 45110 Ioannina, Greece. gwgw_al95@hotmail.com.
+AD  - Biomedical Research Division, Institute of Molecular Biology and Biotechnology, 
+      Foundation for Research and Technology, 45110 Ioannina, Greece. 
+      gwgw_al95@hotmail.com.
+FAU - Sandaltzopoulos, Raphael
+AU  - Sandaltzopoulos R
+AD  - Department of Molecular Biology and Genetics, Democritus University of Thrace, 
+      68100 Alexandroupolis, Greece. rmsandal@mbg.duth.gr.
+FAU - Marcu, Kenneth B
+AU  - Marcu KB
+AD  - Biomedical Research Division, Institute of Molecular Biology and Biotechnology, 
+      Foundation for Research and Technology, 45110 Ioannina, Greece. 
+      kenneth.marcu@stonybrook.edu.
+AD  - Biomedical Research Foundation of the Academy of Athens, 4 Soranou Ephessiou 
+      Street, 115-27 Athens, Greece. kenneth.marcu@stonybrook.edu.
+AD  - Departments of Biochemistry and Cell Biology, Microbiology and Pathology, Stony 
+      Brook University, Stony Brook, NY 11794-5215, USA. kenneth.marcu@stonybrook.edu.
+AD  - Department of Biology, San Diego State University, San Diego, CA 92182-4614, USA. 
+      kenneth.marcu@stonybrook.edu.
+FAU - Kolettas, Evangelos
+AU  - Kolettas E
+AUID- ORCID: 0000-0002-5820-487X
+AD  - Laboratory of Biology, School of Medicine, Faculty of Health Sciences, University 
+      of Ioannina, 45110 Ioannina, Greece. ekoletas@cc.uoi.gr.
+AD  - Biomedical Research Division, Institute of Molecular Biology and Biotechnology, 
+      Foundation for Research and Technology, 45110 Ioannina, Greece. 
+      ekoletas@cc.uoi.gr.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20180330
+PL  - Switzerland
+TA  - Biomedicines
+JT  - Biomedicines
+JID - 101691304
+PMC - PMC6027290
+OTO - NOTNLM
+OT  - NF-κB
+OT  - cancer
+OT  - inflammation
+OT  - miRNAs
+OT  - oncogenic and tumor suppressor pathways
+OT  - transcriptional regulatory networks
+COIS- The authors declare no conflict of interest.
+EDAT- 2018/03/31 06:00
+MHDA- 2018/03/31 06:01
+CRDT- 2018/03/31 06:00
+PHST- 2018/03/05 00:00 [received]
+PHST- 2018/03/26 00:00 [revised]
+PHST- 2018/03/27 00:00 [accepted]
+PHST- 2018/03/31 06:00 [entrez]
+PHST- 2018/03/31 06:00 [pubmed]
+PHST- 2018/03/31 06:01 [medline]
+AID - biomedicines6020040 [pii]
+AID - biomedicines-06-00040 [pii]
+AID - 10.3390/biomedicines6020040 [doi]
+PST - epublish
+SO  - Biomedicines. 2018 Mar 30;6(2):40. doi: 10.3390/biomedicines6020040.
+
+PMID- 29183284
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180709
+LR  - 20181113
+IS  - 1471-2407 (Electronic)
+IS  - 1471-2407 (Linking)
+VI  - 17
+IP  - 1
+DP  - 2017 Nov 28
+TI  - Robust expression of tumor suppressor miRNA's let-7 and miR-195 detected in 
+      plasma of Saudi female breast cancer patients.
+PG  - 799
+LID - 10.1186/s12885-017-3776-5 [doi]
+LID - 799
+AB  - BACKGROUND: Female breast cancer is frequently diagnosed at a later stage and the 
+      leading cause of cancer deaths world-wide. Levels of cell-free circulating 
+      microRNAs (miRNAs) can potentially be used as biomarkers to measure disease 
+      progression in breast cancer patients in a non-invasive way and are therefore of 
+      high clinical value. METHODS: Using quantitative RT-PCR, circulating miRNAs were 
+      measured in blood samples collected from disease-free individuals (n = 34), 
+      triple-negative breast tumours (TNBC) (n = 36) and luminal tumours (n = 57). In 
+      addition to intergroup comparisons, plasma miRNA expression levels of all groups 
+      were analyzed against RNASeq data from cancerous breast tissue via The Cancer 
+      Genome Atlas (TCGA). RESULTS: A differential set of 18 miRNAs were identified in 
+      the plasma of breast cancer patients and 10 miRNAs were uniquely identified based 
+      on ROC analysis. The most striking findings revealed elevated tumor suppressor 
+      let-7 miRNA in luminal breast cancer patients, irrespective of subtype, and 
+      elevated miR-195 in plasma of TNBC breast cancer patients. In contrast, 
+      hsa-miR-195 and let-7 miRNAs were absent from cancerous TCGA tissue and strongly 
+      expressed in surrounding non-tumor tissue indicating that cancerous cells may 
+      selectively export tumor suppressor hsa-miR-195 and let-7 miRNAs in order to 
+      maintain oncogenesis. CONCLUSIONS: While studies have indicated that the 
+      restoration of let-7 and miR-195 may be a potential therapy for cancer, these 
+      results suggested that tumor cells may selectively export hsa-miR-195 and let-7 
+      miRNAs thereby neutralizing their potential therapeutic effect. However, in order 
+      to facilitate earlier detection of breast cancer, blood based screening of 
+      hsa-miR-195 and let-7 may be beneficial in a female patient cohort.
+FAU - Qattan, Amal
+AU  - Qattan A
+AUID- ORCID: 0000-0001-7362-789X
+AD  - Breast Cancer Research, Department of Molecular Oncology, King Faisal Specialist 
+      Hospital and Research Centre, P.O.Box 3354, Riyadh, 11211, Saudi Arabia. 
+      akattan@kfshrc.edu.sa.
+AD  - Department of Biochemistry and Molecular Medicine, School of Medicine and Health 
+      Sciences (SMHS), George Washington University, 2600 Virginia Avenue, NW, Suite 
+      300, Washington, DC, 20037, USA. akattan@kfshrc.edu.sa.
+AD  - College of Medicine, Alfaisal University, P.O.Box 50927, Riyadh, 11533, Saudi 
+      Arabia. akattan@kfshrc.edu.sa.
+FAU - Intabli, Haya
+AU  - Intabli H
+AD  - Breast Cancer Research, Department of Molecular Oncology, King Faisal Specialist 
+      Hospital and Research Centre, P.O.Box 3354, Riyadh, 11211, Saudi Arabia.
+AD  - College of Medicine, Alfaisal University, P.O.Box 50927, Riyadh, 11533, Saudi 
+      Arabia.
+FAU - Alkhayal, Wafa
+AU  - Alkhayal W
+AD  - College of Medicine, Princess Nourah Bint Abdulrahman University, Riyadh, Saudi 
+      Arabia.
+AD  - Department of Surgery, King Faisal Specialist Hospital and Research centre, 
+      Riyadh, Saudi Arabia.
+FAU - Eltabache, Chafica
+AU  - Eltabache C
+AD  - Breast Cancer Research, Department of Molecular Oncology, King Faisal Specialist 
+      Hospital and Research Centre, P.O.Box 3354, Riyadh, 11211, Saudi Arabia.
+FAU - Tweigieri, Taher
+AU  - Tweigieri T
+AD  - Department of Oncology, King Faisal Specialist Hospital and Research centre, 
+      Riyadh, Saudi Arabia.
+FAU - Amer, Suad Bin
+AU  - Amer SB
+AD  - Breast Cancer Research, Department of Molecular Oncology, King Faisal Specialist 
+      Hospital and Research Centre, P.O.Box 3354, Riyadh, 11211, Saudi Arabia. 
+      suad@kfshrc.edu.sa.
+LA  - eng
+GR  - 2110016 and 2160029/King Faisal Specialist Hospital and Research centre/
+PT  - Journal Article
+DEP - 20171128
+PL  - England
+TA  - BMC Cancer
+JT  - BMC cancer
+JID - 100967800
+RN  - 0 (Biomarkers, Tumor)
+RN  - 0 (MIRN195 microRNA, human)
+RN  - 0 (MicroRNAs)
+RN  - 0 (mirnlet7 microRNA, human)
+SB  - IM
+MH  - Aged
+MH  - Biomarkers, Tumor/blood/*genetics
+MH  - Breast Neoplasms/blood/*genetics
+MH  - Early Detection of Cancer
+MH  - Female
+MH  - Gene Expression Regulation, Neoplastic
+MH  - Humans
+MH  - MicroRNAs/*blood
+MH  - Reverse Transcriptase Polymerase Chain Reaction
+MH  - Saudi Arabia
+MH  - Sequence Analysis, RNA
+MH  - Triple Negative Breast Neoplasms/genetics
+MH  - *Up-Regulation
+PMC - PMC5706292
+OTO - NOTNLM
+OT  - Cancer therapy
+OT  - Circulating biomarkers
+OT  - Circulating miRNAs
+OT  - FASN pathway
+OT  - Plasma versus tissue
+OT  - ROC curves
+OT  - Secretion
+OT  - Triple-negative breast cancer (TNBC)
+COIS- AUTHORS’ INFORMATION: All authors from King Faisal Specialist Hospital and 
+      Research centre, Riyadh, Saudi Arabia ETHICS APPROVAL AND CONSENT TO PARTICIPATE: 
+      Approval and written consent was obtained from all study participants for the use 
+      of their blood samples for research purposes. The study was approved by the 
+      Ethical Research Committee and Basic Research Committee (Approval number: 
+      RAC#2160029 and 2,110,016) on Clinical Research at KFSHRC, Riyadh, Saudi Arabia 
+      and was carried out under the terms of the Helsinki Declaration. CONSENT FOR 
+      PUBLICATION: NA COMPETING INTERESTS: The authors declare that they have no 
+      competing interests. PUBLISHER’S NOTE: Springer Nature remains neutral with 
+      regard to jurisdictional claims in published maps and institutional affiliations.
+EDAT- 2017/12/01 06:00
+MHDA- 2018/07/10 06:00
+CRDT- 2017/11/30 06:00
+PHST- 2017/02/27 00:00 [received]
+PHST- 2017/11/13 00:00 [accepted]
+PHST- 2017/11/30 06:00 [entrez]
+PHST- 2017/12/01 06:00 [pubmed]
+PHST- 2018/07/10 06:00 [medline]
+AID - 10.1186/s12885-017-3776-5 [pii]
+AID - 3776 [pii]
+AID - 10.1186/s12885-017-3776-5 [doi]
+PST - epublish
+SO  - BMC Cancer. 2017 Nov 28;17(1):799. doi: 10.1186/s12885-017-3776-5.
+
+PMID- 29136645
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171211
+LR  - 20181113
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 12
+IP  - 11
+DP  - 2017
+TI  - A 4-miRNA signature to predict survival in glioblastomas.
+PG  - e0188090
+LID - 10.1371/journal.pone.0188090 [doi]
+LID - e0188090
+AB  - Glioblastomas are among the most lethal cancers; however, recent advances in 
+      survival have increased the need for better prognostic markers. microRNAs 
+      (miRNAs) hold great prognostic potential being deregulated in glioblastomas and 
+      highly stable in stored tissue specimens. Moreover, miRNAs control multiple genes 
+      representing an additional level of gene regulation possibly more prognostically 
+      powerful than a single gene. The aim of the study was to identify a novel miRNA 
+      signature with the ability to separate patients into prognostic subgroups. 
+      Samples from 40 glioblastoma patients were included retrospectively; patients 
+      were comparable on all clinical aspects except overall survival enabling patients 
+      to be categorized as short-term or long-term survivors based on median survival. 
+      A miRNome screening was employed, and a prognostic profile was developed using 
+      leave-one-out cross-validation. We found that expression patterns of miRNAs; 
+      particularly the four miRNAs: hsa-miR-107_st, hsa-miR-548x_st, hsa-miR-3125_st 
+      and hsa-miR-331-3p_st could determine short- and long-term survival with a 
+      predicted accuracy of 78%. Heatmap dendrograms dichotomized glioblastomas into 
+      prognostic subgroups with a significant association to survival in univariate (HR 
+      8.50; 95% CI 3.06-23.62; p<0.001) and multivariate analysis (HR 9.84; 95% CI 
+      2.93-33.06; p<0.001). Similar tendency was seen in The Cancer Genome Atlas (TCGA) 
+      using a 2-miRNA signature of miR-107 and miR-331 (miR sum score), which were the 
+      only miRNAs available in TCGA. In TCGA, patients with 
+      O6-methylguanine-DNA-methyltransferase (MGMT) unmethylated tumors and low miR sum 
+      score had the shortest survival. Adjusting for age and MGMT status, low miR sum 
+      score was associated with a poorer prognosis (HR 0.66; 95% CI 0.45-0.97; p = 
+      0.033). A Kyoto Encyclopedia of Genes and Genomes analysis predicted the 
+      identified miRNAs to regulate genes involved in cell cycle regulation and 
+      survival. In conclusion, the biology of miRNAs is complex, but the identified 
+      4-miRNA expression pattern could comprise promising biomarkers in glioblastoma 
+      stratifying patients into short- and long-term survivors.
+FAU - Hermansen, Simon K
+AU  - Hermansen SK
+AD  - Department of Pathology, Odense University Hospital, Odense, Denmark.
+AD  - Department of Clinical Research, University of Southern Denmark, Odense, Denmark.
+FAU - Sørensen, Mia D
+AU  - Sørensen MD
+AUID- ORCID: 0000-0002-0105-2940
+AD  - Department of Pathology, Odense University Hospital, Odense, Denmark.
+AD  - Department of Clinical Research, University of Southern Denmark, Odense, Denmark.
+FAU - Hansen, Anker
+AU  - Hansen A
+AD  - Medical Prognosis Institute, Hørsholm, Denmark.
+FAU - Knudsen, Steen
+AU  - Knudsen S
+AD  - Medical Prognosis Institute, Hørsholm, Denmark.
+FAU - Alvarado, Alvaro G
+AU  - Alvarado AG
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute, 
+      Cleveland Clinic, Cleveland, Ohio, United States of America.
+AD  - Department of Molecular Medicine, Cleveland Clinic Lerner College of Medicine of 
+      Case Western Reserve University, Cleveland, Ohio, United States of America.
+FAU - Lathia, Justin D
+AU  - Lathia JD
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute, 
+      Cleveland Clinic, Cleveland, Ohio, United States of America.
+AD  - Department of Molecular Medicine, Cleveland Clinic Lerner College of Medicine of 
+      Case Western Reserve University, Cleveland, Ohio, United States of America.
+FAU - Kristensen, Bjarne W
+AU  - Kristensen BW
+AD  - Department of Pathology, Odense University Hospital, Odense, Denmark.
+AD  - Department of Clinical Research, University of Southern Denmark, Odense, Denmark.
+LA  - eng
+PT  - Journal Article
+DEP - 20171114
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (MicroRNAs)
+SB  - IM
+MH  - Brain Neoplasms/*genetics/pathology
+MH  - Cell Line, Tumor
+MH  - DNA Methylation
+MH  - Glioblastoma/*genetics/pathology
+MH  - Humans
+MH  - MicroRNAs/*genetics
+MH  - Retrospective Studies
+MH  - Survival Rate
+PMC - PMC5685622
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2017/11/15 06:00
+MHDA- 2017/12/12 06:00
+CRDT- 2017/11/15 06:00
+PHST- 2017/07/10 00:00 [received]
+PHST- 2017/10/31 00:00 [accepted]
+PHST- 2017/11/15 06:00 [entrez]
+PHST- 2017/11/15 06:00 [pubmed]
+PHST- 2017/12/12 06:00 [medline]
+AID - PONE-D-17-25955 [pii]
+AID - 10.1371/journal.pone.0188090 [doi]
+PST - epublish
+SO  - PLoS One. 2017 Nov 14;12(11):e0188090. doi: 10.1371/journal.pone.0188090. 
+      eCollection 2017.
+
+PMID- 29109091
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180703
+LR  - 20181113
+IS  - 1790-6245 (Electronic)
+IS  - 1109-6535 (Print)
+IS  - 1109-6535 (Linking)
+VI  - 14
+IP  - 6
+DP  - 2017 Nov-Dec
+TI  - Transcriptomic Profiling of MDA-MB-231 Cells Exposed to Boswellia Serrata and 
+      3-O-Acetyl-B-Boswellic Acid; ER/UPR Mediated Programmed Cell Death.
+PG  - 409-425
+AB  - BACKGROUND/AIM: Triple-negative breast cancer (TNBC) is characterized by the 
+      absence of hormone receptors (estrogen, progesterone and human epidermal growth 
+      factor receptor-2) and a relatively poor prognosis due to inefficacy of hormone 
+      receptor-based chemotherapies. It is imperative that we continue to explore 
+      natural products with potential to impede growth and metastasis of TNBC. In this 
+      study, we screened over 1,000 natural products for capacity to induce cell death 
+      in TNBC (MDA-MB -231) cells. MATERIALS AND METHODS: Frankincense (Boswellia 
+      serrata extract (BSE)) and 3-O-Acetyl-β-boswellic acid (3-OAβBA) were relatively 
+      potent, findings that corroborate the body of existing literature. The effects of 
+      BSE and 3-OAβBA on genetic parameters in MDA-MB-231 cells were evaluated by 
+      examining whole-transcriptomic influence on mRNAs, long intergenic non-coding RNA 
+      transcripts (lincRNA) and non-coding miRNAs. RESULTS: Bio-statistical analysis 
+      demarcates the primary effect of both BSE/3-OAβBA on the up-regulation of PERK 
+      (protein kinase RNA-like endoplasmic reticulum kinase)- endoplasmic reticulum 
+      (ER)/unfolded protein response (UPR) pathways that are closely tied to activated 
+      programmed cell death (APCD). Global profiling confirms concomitant effects of 
+      BSE/3-OAβBA on upwardly expressed ER/URP APCD key components PERK (EIF2AK3), 
+      XBP1, C/EBP homologous protein transcription factor (CHOP), ATF3 and 
+      DDIT3,4/DNA-damage-inducible transcript 3,4 (GADD34). Further, BSE and/or 3-OAβBA 
+      significantly down-regulated oncogenes (OG) which, heretofore, lack functional 
+      pathway mapping, but are capable of driving epithelial-mesenchymal transition 
+      (EMT), cell survival, proliferation, metastasis and drug resistance. Among these 
+      are cell migration-inducing protein hyaluronan binding (CEMIP) [-7.22]; 
+      transglutaminase 2 [-4.96], SRY box 9 (SOX9) [-4.09], inhibitor of DNA binding 1, 
+      dominant negative helix-loop-helix protein (ID1) [-6.56]; and endothelin 1 (EDN1, 
+      [-5.06]). Likewise, in the opposite manner, BSE and/or 3-OAβBA induced the robust 
+      overexpression of tumor suppressor genes (TSGs), including: glutathione-depleting 
+      ChaC glutathione-specific gamma-glutamylcyclotransferase 1 (CHAC1) [+21.67]; the 
+      mTOR inhibitors - sestrin 2 (SESN2) [+16.4] Tribbles homolog 3 (TRIB3) [+6.2], 
+      homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like 
+      domain member 1 (HERPUD1) [+12.01]; and cystathionine gamma-lyase (CTH) [+11.12]. 
+      CONCLUSION: The anti-cancer effects of the historically used frankincense sap 
+      (BSE) appear to involve major impact on the ER/UPR response, concomitant to 
+      effecting multiple targets counter to the growth, proliferation and metastasis of 
+      TNBC cancer cells. The microarray data are available at Expression Omnibus GEO 
+      Series accession number GSE102891.
+CI  - Copyright© 2017, International Institute of Anticancer Research (Dr. George J. 
+      Delinasios), All rights reserved.
+FAU - Mazzio, Elizabeth A
+AU  - Mazzio EA
+AD  - College of Pharmacy & Pharmaceutical Sciences, Florida A & M University, 
+      Tallahassee, FL, U.S.A.
+FAU - Lewis, Charles A
+AU  - Lewis CA
+AD  - College of Pharmacy & Pharmaceutical Sciences, Florida A & M University, 
+      Tallahassee, FL, U.S.A.
+FAU - Soliman, Karam F A
+AU  - Soliman KFA
+AD  - College of Pharmacy & Pharmaceutical Sciences, Florida A & M University, 
+      Tallahassee, FL, U.S.A. karam.soliman@famu.edu.
+LA  - eng
+GR  - G12 MD007582/MD/NIMHD NIH HHS/United States
+GR  - P20 MD006738/MD/NIMHD NIH HHS/United States
+PT  - Journal Article
+PT  - Review
+PL  - Greece
+TA  - Cancer Genomics Proteomics
+JT  - Cancer genomics & proteomics
+JID - 101188791
+RN  - 0 (3-O-acetyl-beta-boswellic acid)
+RN  - 0 (B7-H1 Antigen)
+RN  - 0 (Triterpenes)
+SB  - IM
+MH  - B7-H1 Antigen/*metabolism
+MH  - Boswellia/*metabolism
+MH  - Gene Expression Profiling
+MH  - Humans
+MH  - Signal Transduction
+MH  - Triterpenes/*metabolism
+PMC - PMC6070331
+OTO - NOTNLM
+OT  - ATF
+OT  - Boswellia
+OT  - Boswellic acid
+OT  - CHAC1
+OT  - CHOP
+OT  - ER
+OT  - Frankincense
+OT  - PERK
+OT  - SESN2
+OT  - TG2
+OT  - UPR
+OT  - apoptosis
+OT  - cancer
+OT  - dual specificity phosphatase
+OT  - endoplasmic reticulum
+OT  - epigenetics
+OT  - histone cluster
+OT  - microarray
+OT  - sestrin
+EDAT- 2017/11/08 06:00
+MHDA- 2018/07/04 06:00
+CRDT- 2017/11/08 06:00
+PHST- 2017/08/21 00:00 [received]
+PHST- 2017/10/01 00:00 [revised]
+PHST- 2017/10/05 00:00 [accepted]
+PHST- 2017/11/08 06:00 [entrez]
+PHST- 2017/11/08 06:00 [pubmed]
+PHST- 2018/07/04 06:00 [medline]
+AID - 14/6/409 [pii]
+AID - 10.21873/cgp.20051 [doi]
+PST - ppublish
+SO  - Cancer Genomics Proteomics. 2017 Nov-Dec;14(6):409-425. doi: 10.21873/cgp.20051.
+
+PMID- 29100284
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220311
+IS  - 1949-2553 (Electronic)
+IS  - 1949-2553 (Linking)
+VI  - 8
+IP  - 44
+DP  - 2017 Sep 29
+TI  - Exosomes containing differential expression of microRNA and mRNA in osteosarcoma 
+      that can predict response to chemotherapy.
+PG  - 75968-75978
+LID - 10.18632/oncotarget.18373 [doi]
+AB  - A major challenge in osteosarcoma (OS) is the selection of the most effective 
+      chemotherapeutic agents for individual patients, while the administration of 
+      ineffective chemotherapy increases mortality and decreases quality of life in 
+      patients. This emphasizes the need to evaluate every patient's probability of 
+      responding to each chemotherapeutic agent. We developed a profiling strategy for 
+      serum exosomal microRNAs and mRNAs in OS patients with differential 
+      chemotherapeutic responses. Twelve miRNAs were up regulated and 18 miRNAs were 
+      under regulated significantly in OS patient with poor chemotherapeutic response 
+      when compared with those in good chemotherapeutic response (p<0.05). In addition, 
+      miR-124, miR133a, miR-199a-3p, and miR-385 were validated and significantly 
+      reduced in poorly responded patients with an independent OS cohort. While 
+      miR-135b, miR-148a, miR-27a, and miR-9 were significantly over expressed in serum 
+      exosomes. Bioinformatic analysis by DIANA-mirPath demonstrated that Proteoglycans 
+      in cancer, Hippo signaling pathway, Pathways in cancer, Transcriptional 
+      misregulation in cancer, PI3K-Akt signaling pathway, Ras signaling pathway, 
+      Ubiquitin mediated proteolysis, Choline metabolism in cancer were the most 
+      prominent pathways enriched in quantiles with the miRNA patterns related to poor 
+      chemotherapeutic response. Messenger RNAs(mRNAs) includingAnnexin2, Smad2, 
+      Methylthioadenosine phosphorylase (MTAP), Cdc42-interacting protein 4 (CIP4), 
+      Pigment Epithelium-Derived Factor (PEDF), WW domain-containing oxidoreductase 
+      (WWOX), Cell division cycle 5-like (Cdc5L), P27 were differentially expressed in 
+      exosomes in OS patients with different chemotherapeutic response. These data 
+      demonstrated that exosomal RNA molecules are reliable biomarkers in classifying 
+      osteosarcoma with different chemotherapy sensitivity.
+FAU - Xu, Ji-Feng
+AU  - Xu JF
+AD  - Department of Orthopedics, Zhejiang Provincial People's Hospital, Hangzhou 
+      Medical College, Hangzhou, Zhejiang 310014, P.R. China.
+AD  - Department of Orthopedics, Sir Run Run Shaw Hospital, School of Medicine, 
+      Zhejiang University, Hangzhou, Zhejiang 310016, P.R. China.
+FAU - Wang, Ya-Ping
+AU  - Wang YP
+AD  - Department of Cardiology, 2nd Affiliated Hospital, School of Medicine, Zhejiang 
+      University, Zhejiang 310009, P.R. China.
+FAU - Zhang, Shui-Jun
+AU  - Zhang SJ
+AD  - Department of Orthopedics, Zhejiang Provincial People's Hospital, Hangzhou 
+      Medical College, Hangzhou, Zhejiang 310014, P.R. China.
+FAU - Chen, Yu
+AU  - Chen Y
+AD  - Department of Orthopedics, Zhejiang Provincial People's Hospital, Hangzhou 
+      Medical College, Hangzhou, Zhejiang 310014, P.R. China.
+FAU - Gu, Hai-Feng
+AU  - Gu HF
+AD  - Department of Orthopedics, Zhejiang Provincial People's Hospital, Hangzhou 
+      Medical College, Hangzhou, Zhejiang 310014, P.R. China.
+FAU - Dou, Xiao-Fan
+AU  - Dou XF
+AD  - Department of Orthopedics, Zhejiang Provincial People's Hospital, Hangzhou 
+      Medical College, Hangzhou, Zhejiang 310014, P.R. China.
+FAU - Xia, Bing
+AU  - Xia B
+AD  - Department of Orthopedics, Zhejiang Provincial People's Hospital, Hangzhou 
+      Medical College, Hangzhou, Zhejiang 310014, P.R. China.
+FAU - Bi, Qing
+AU  - Bi Q
+AD  - Department of Orthopedics, Zhejiang Provincial People's Hospital, Hangzhou 
+      Medical College, Hangzhou, Zhejiang 310014, P.R. China.
+FAU - Fan, Shun-Wu
+AU  - Fan SW
+AD  - Department of Orthopedics, Sir Run Run Shaw Hospital, School of Medicine, 
+      Zhejiang University, Hangzhou, Zhejiang 310016, P.R. China.
+LA  - eng
+PT  - Journal Article
+DEP - 20170606
+PL  - United States
+TA  - Oncotarget
+JT  - Oncotarget
+JID - 101532965
+PMC - PMC5652678
+OTO - NOTNLM
+OT  - chemotherapy sensitivity
+OT  - exosome
+OT  - microRNA
+OT  - osteosarcoma (OS)
+OT  - poor chemotherapeutic response
+COIS- CONFLICTS OF INTEREST None of the authors have any financial relationships to 
+      report.
+EDAT- 2017/11/05 06:00
+MHDA- 2017/11/05 06:01
+CRDT- 2017/11/05 06:00
+PHST- 2017/01/12 00:00 [received]
+PHST- 2017/04/15 00:00 [accepted]
+PHST- 2017/11/05 06:00 [entrez]
+PHST- 2017/11/05 06:00 [pubmed]
+PHST- 2017/11/05 06:01 [medline]
+AID - 18373 [pii]
+AID - 10.18632/oncotarget.18373 [doi]
+PST - epublish
+SO  - Oncotarget. 2017 Jun 6;8(44):75968-75978. doi: 10.18632/oncotarget.18373. 
+      eCollection 2017 Sep 29.
+
+PMID- 28881664
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20170925
+LR  - 20181113
+IS  - 1949-2553 (Electronic)
+IS  - 1949-2553 (Linking)
+VI  - 8
+IP  - 31
+DP  - 2017 Aug 1
+TI  - Prognostic microRNAs in upper tract urothelial carcinoma: multicenter and 
+      international validation study.
+PG  - 51522-51529
+LID - 10.18632/oncotarget.17884 [doi]
+AB  - OBJECTIVE: To validate previously discovered miRNAs (miR-31-5p and miR-149-5p) as 
+      prognostic factors for UTUC in an independent cohort of UTUC patients. PATIENTS 
+      AND METHODS: Multicenter, international and retrospective study of formalin-fixed 
+      paraffin-embedded tissue samples from 103 UTUC patients (45 progressing and 58 
+      non-progressing) who underwent radical nephroureterectomy. Total RNA was isolated 
+      and reverse transcribed. The expression of target miRNAs (miR-31-5p and 
+      miR-149-5p) and the endogenous control miR-218-5p was evaluated in all samples by 
+      reverse transcription quantitative PCR. Normalized miRNA expression values were 
+      evaluated by multivariate forward stepwise Cox regression analysis. Kaplan Meier 
+      curves were used to discriminate between two groups of patients with a different 
+      probability of tumour progression. RESULTS: The mean age (range) of the series 
+      was 67 (33-94) years. Overall, 45 patients (43.7%) developed tumour progression 
+      and 32 patients (31.2%) died, 20 of these (62.5%) due to their UTUC, after a 
+      median follow-up of 36 months. The mean time for tumour progression and 
+      cancer-specific survival were 15 and 20 months, respectively. Five year tumour 
+      progression free survival and cancer-specific survival were 58% for ≤ pT2, 36% 
+      for pT3 and 0% for pT4 and 67.8% for ≤ pT2, 50.6% for pT3 and 0% for pT4, 
+      respectively. In the multivariate analysis, expression of miR-31-5p was found to 
+      be an independent prognostic factor of tumour progression (HR 1.1; 95% CI 
+      1.039-1.273; p=0.02). Kaplan Meier curve shows that miR-31-5p expression values 
+      are able to discriminate between two groups of UTUC patients with a different 
+      probability of tumour progression (p=0.007). CONCLUSIONS: We have been able to 
+      validate our previous results in an independent multicentre international cohort 
+      of UTUC patients, suggesting that miRNA-31-5p could be a useful prognostic marker 
+      of UTUC progression. The application of miRNA expression values to clinical 
+      practice could refine the currently used clinicopathological-based approach for 
+      predicting UTUC patients' outcome.
+FAU - Izquierdo, Laura
+AU  - Izquierdo L
+AD  - Department of Urology, Hospital Clinic, IDIBAPS, Barcelona, Spain.
+AD  - Laboratory of Urology, Hospital Clinic, IDIBAPS, Barcelona, Spain.
+FAU - Montalbo, Ruth
+AU  - Montalbo R
+AD  - Department of Urology, Hospital Clinic, IDIBAPS, Barcelona, Spain.
+AD  - Laboratory of Urology, Hospital Clinic, IDIBAPS, Barcelona, Spain.
+FAU - Ingelmo-Torres, Mercedes
+AU  - Ingelmo-Torres M
+AD  - Department of Urology, Hospital Clinic, IDIBAPS, Barcelona, Spain.
+AD  - Laboratory of Urology, Hospital Clinic, IDIBAPS, Barcelona, Spain.
+FAU - Mallofré, Carme
+AU  - Mallofré C
+AD  - Department of Pathology, Hospital Clinic, Barcelona, Spain.
+FAU - Ramírez-Backhaus, Miguel
+AU  - Ramírez-Backhaus M
+AD  - Department of Urology of Fundación IVO, Valencia, Spain.
+FAU - Rubio, Jose
+AU  - Rubio J
+AD  - Department of Urology of Fundación IVO, Valencia, Spain.
+FAU - Van der Heijden, Antoine G
+AU  - Van der Heijden AG
+AD  - Department of Urology, Radboud University Centre, Nijmegen, Netherlands.
+FAU - Schaafsma, Ewout
+AU  - Schaafsma E
+AD  - Department of Pathology, Radboud University Centre, Nijmegen, Netherlands.
+FAU - Lopez-Beltran, Antonio
+AU  - Lopez-Beltran A
+AD  - Department of Pathology of Reina Sofía Hospital and Maimonides Biochemical 
+      Research Institute, Córdoba, Spain.
+FAU - Blanca, Ana
+AU  - Blanca A
+AD  - Department of Urology, Maimonides Biochemical Research Institute of Córdoba, 
+      Córdoba, Spain.
+FAU - Lawrentschuk, Nathan
+AU  - Lawrentschuk N
+AD  - Department of Urology, University of Melbourne, Department of Surgery/Olivia 
+      Newton-John Cancer Research Institute, Melbourne, Australia.
+FAU - Alcaraz, Antonio
+AU  - Alcaraz A
+AD  - Department of Urology, Hospital Clinic, IDIBAPS, Barcelona, Spain.
+AD  - Laboratory of Urology, Hospital Clinic, IDIBAPS, Barcelona, Spain.
+FAU - Mengual, Lourdes
+AU  - Mengual L
+AD  - Department of Urology, Hospital Clinic, IDIBAPS, Barcelona, Spain.
+AD  - Laboratory of Urology, Hospital Clinic, IDIBAPS, Barcelona, Spain.
+LA  - eng
+PT  - Journal Article
+DEP - 20170516
+PL  - United States
+TA  - Oncotarget
+JT  - Oncotarget
+JID - 101532965
+PMC - PMC5584265
+OTO - NOTNLM
+OT  - microRNAs
+OT  - prognosis
+OT  - upper tract urothelial carcinoma
+COIS- CONFLICTS OF INTEREST None declared.
+EDAT- 2017/09/09 06:00
+MHDA- 2017/09/09 06:01
+CRDT- 2017/09/09 06:00
+PHST- 2016/11/25 00:00 [received]
+PHST- 2017/04/26 00:00 [accepted]
+PHST- 2017/09/09 06:00 [entrez]
+PHST- 2017/09/09 06:00 [pubmed]
+PHST- 2017/09/09 06:01 [medline]
+AID - 17884 [pii]
+AID - 10.18632/oncotarget.17884 [doi]
+PST - epublish
+SO  - Oncotarget. 2017 May 16;8(31):51522-51529. doi: 10.18632/oncotarget.17884. 
+      eCollection 2017 Aug 1.
+
+PMID- 28365733
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171120
+LR  - 20181113
+IS  - 1758-0463 (Electronic)
+IS  - 1758-0463 (Linking)
+VI  - 2017
+IP  - 1
+DP  - 2017 Jan 1
+TI  - miRnalyze: an interactive database linking tool to unlock intuitive microRNA 
+      regulation of cell signaling pathways.
+LID - 10.1093/database/bax015 [doi]
+LID - bax015
+AB  - The various pathophysiological processes occurring in living systems are known to 
+      be orchestrated by delicate interplays and cross-talks between different genes 
+      and their regulators. Among the various regulators of genes, there is a class of 
+      small non-coding RNA molecules known as microRNAs. Although, the relative 
+      simplicity of miRNAs and their ability to modulate cellular processes make them 
+      attractive therapeutic candidates, their presence in large numbers make it 
+      challenging for experimental researchers to interpret the intricacies of the 
+      molecular processes they regulate. Most of the existing bioinformatic tools fail 
+      to address these challenges. Here, we present a new web resource 'miRnalyze' that 
+      has been specifically designed to directly identify the putative regulation of 
+      cell signaling pathways by miRNAs. The tool integrates miRNA-target predictions 
+      with signaling cascade members by utilizing TargetScanHuman 7.1 miRNA-target 
+      prediction tool and the KEGG pathway database, and thus provides researchers with 
+      in-depth insights into modulation of signal transduction pathways by miRNAs. 
+      miRnalyze is capable of identifying common miRNAs targeting more than one gene in 
+      the same signaling pathway-a feature that further increases the probability of 
+      modulating the pathway and downstream reactions when using miRNA modulators. 
+      Additionally, miRnalyze can sort miRNAs according to the seed-match types and 
+      TargetScan Context ++ score, thus providing a hierarchical list of most valuable 
+      miRNAs. Furthermore, in order to provide users with comprehensive information 
+      regarding miRNAs, genes and pathways, miRnalyze also links to expression data of 
+      miRNAs (miRmine) and genes (TiGER) and proteome abundance (PaxDb) data. To 
+      validate the capability of the tool, we have documented the correlation of 
+      miRnalyze's prediction with experimental confirmation studies. DATABASE URL: 
+      http://www.mirnalyze.in.
+CI  - © The Author(s) 2017. Published by Oxford University Press.
+FAU - Subhra Das, Sankha
+AU  - Subhra Das S
+AD  - School of Medical Science and Technology, Indian Institute of Technology, 
+      Kharagpur, West Bengal 721302, India.
+FAU - James, Mithun
+AU  - James M
+AD  - National Brain Research Centre, Manesar, Haryana 122051, India.
+FAU - Paul, Sandip
+AU  - Paul S
+AD  - School of Medical Science and Technology, Indian Institute of Technology, 
+      Kharagpur, West Bengal 721302, India.
+FAU - Chakravorty, Nishant
+AU  - Chakravorty N
+AD  - School of Medical Science and Technology, Indian Institute of Technology, 
+      Kharagpur, West Bengal 721302, India.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Database (Oxford)
+JT  - Database : the journal of biological databases and curation
+JID - 101517697
+RN  - 0 (MicroRNAs)
+SB  - IM
+MH  - Animals
+MH  - *Databases, Nucleic Acid
+MH  - Humans
+MH  - MicroRNAs/*biosynthesis/*genetics
+MH  - Sequence Analysis, RNA/*methods
+MH  - *Signal Transduction
+PMC - PMC5467568
+EDAT- 2017/04/04 06:00
+MHDA- 2017/11/29 06:00
+CRDT- 2017/04/03 06:00
+PHST- 2016/09/29 00:00 [received]
+PHST- 2017/02/13 00:00 [accepted]
+PHST- 2017/04/03 06:00 [entrez]
+PHST- 2017/04/04 06:00 [pubmed]
+PHST- 2017/11/29 06:00 [medline]
+AID - 3074786 [pii]
+AID - bax015 [pii]
+AID - 10.1093/database/bax015 [doi]
+PST - ppublish
+SO  - Database (Oxford). 2017 Jan 1;2017(1):bax015. doi: 10.1093/database/bax015.
+
+PMID- 27383196
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180801
+LR  - 20221207
+IS  - 1436-6215 (Electronic)
+IS  - 1436-6207 (Linking)
+VI  - 56
+IP  - 6
+DP  - 2017 Sep
+TI  - Chronic pistachio intake modulates circulating microRNAs related to glucose 
+      metabolism and insulin resistance in prediabetic subjects.
+PG  - 2181-2191
+LID - 10.1007/s00394-016-1262-5 [doi]
+AB  - PURPOSE: To assess the effects of a pistachio-enriched diet on the profile of 
+      circulating microRNAs (miRNAs) related to glucose metabolism and insulin 
+      resistance (IR). METHODS: Randomized crossover clinical trial in 49 subjects with 
+      prediabetes was performed. Subjects consumed a pistachio-supplemented diet (PD, 
+      50 % carbohydrates, 33 % fat, including 57 g/day of pistachios) and an isocaloric 
+      control diet (CD, 55 % carbohydrates and 30 % fat) for 4 months each, separated 
+      by a 2-week washout period. The plasma profile of a set of seven predefined 
+      miRNAs related to glucose and insulin metabolism was analyzed by quantitative 
+      RT-PCR. RESULTS: After the PD period, subjects have shown significant lower 
+      circulating levels of miR-192 and miR-375 compared to CD period, whereas miR-21 
+      nonsignificantly increased after PD compared with CD (47 vs. 2 %, P = 0.092). 
+      Interestingly, changes in circulating miR-192 and miR-375 were positively 
+      correlated with plasma glucose, insulin and HOMA-IR. CONCLUSION: Chronic 
+      pistachio consumption positively modulates the expression of some miRNA 
+      previously implicated on insulin sensitivity.
+FAU - Hernández-Alonso, Pablo
+AU  - Hernández-Alonso P
+AD  - Human Nutrition Unit, Biochemistry and Biotechnology Department, Faculty of 
+      Medicine and Health Sciences, University Hospital of Sant Joan de Reus, IISPV, 
+      Universitat Rovira i Virgili, St/Sant Llorenç 21, 43201, Reus, Spain.
+AD  - CIBERobn Physiopathology of Obesity and Nutrition, Instituto de Salud Carlos III, 
+      Madrid, Spain.
+FAU - Giardina, Simona
+AU  - Giardina S
+AD  - Human Nutrition Unit, Biochemistry and Biotechnology Department, Faculty of 
+      Medicine and Health Sciences, University Hospital of Sant Joan de Reus, IISPV, 
+      Universitat Rovira i Virgili, St/Sant Llorenç 21, 43201, Reus, Spain.
+FAU - Salas-Salvadó, Jordi
+AU  - Salas-Salvadó J
+AD  - Human Nutrition Unit, Biochemistry and Biotechnology Department, Faculty of 
+      Medicine and Health Sciences, University Hospital of Sant Joan de Reus, IISPV, 
+      Universitat Rovira i Virgili, St/Sant Llorenç 21, 43201, Reus, Spain. 
+      jordi.salas@urv.cat.
+AD  - CIBERobn Physiopathology of Obesity and Nutrition, Instituto de Salud Carlos III, 
+      Madrid, Spain. jordi.salas@urv.cat.
+FAU - Arcelin, Pierre
+AU  - Arcelin P
+AD  - ABS Reus V. Centre d'Assistència Primària Marià Fortuny, SAGESSA, Reus, Spain.
+FAU - Bulló, Mònica
+AU  - Bulló M
+AD  - Human Nutrition Unit, Biochemistry and Biotechnology Department, Faculty of 
+      Medicine and Health Sciences, University Hospital of Sant Joan de Reus, IISPV, 
+      Universitat Rovira i Virgili, St/Sant Llorenç 21, 43201, Reus, Spain. 
+      monica.bullo@urv.cat.
+AD  - CIBERobn Physiopathology of Obesity and Nutrition, Instituto de Salud Carlos III, 
+      Madrid, Spain. monica.bullo@urv.cat.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20160706
+PL  - Germany
+TA  - Eur J Nutr
+JT  - European journal of nutrition
+JID - 100888704
+RN  - 0 (Blood Glucose)
+RN  - 0 (Circulating MicroRNA)
+RN  - 0 (Dietary Carbohydrates)
+RN  - 0 (Dietary Fats)
+RN  - 0 (Dietary Proteins)
+RN  - 0 (Glycated Hemoglobin A)
+RN  - 0 (Insulin)
+RN  - 0 (Triglycerides)
+RN  - 97C5T2UQ7J (Cholesterol)
+SB  - IM
+MH  - Blood Glucose/*metabolism
+MH  - Blood Pressure
+MH  - Body Mass Index
+MH  - Cholesterol/blood
+MH  - Circulating MicroRNA/*blood
+MH  - Cross-Over Studies
+MH  - Diet
+MH  - Dietary Carbohydrates/administration & dosage
+MH  - Dietary Fats/administration & dosage
+MH  - Dietary Proteins/administration & dosage
+MH  - Female
+MH  - Glycated Hemoglobin/metabolism
+MH  - Humans
+MH  - Insulin/blood
+MH  - *Insulin Resistance
+MH  - Male
+MH  - Middle Aged
+MH  - *Nuts
+MH  - *Pistacia
+MH  - Prediabetic State/*blood
+MH  - Triglycerides/blood
+MH  - Waist Circumference
+OTO - NOTNLM
+OT  - Glucose
+OT  - Pistachio
+OT  - Prediabetes
+OT  - microRNA
+EDAT- 2016/07/08 06:00
+MHDA- 2018/08/02 06:00
+CRDT- 2016/07/08 06:00
+PHST- 2016/02/17 00:00 [received]
+PHST- 2016/06/28 00:00 [accepted]
+PHST- 2016/07/08 06:00 [pubmed]
+PHST- 2018/08/02 06:00 [medline]
+PHST- 2016/07/08 06:00 [entrez]
+AID - 10.1007/s00394-016-1262-5 [pii]
+AID - 10.1007/s00394-016-1262-5 [doi]
+PST - ppublish
+SO  - Eur J Nutr. 2017 Sep;56(6):2181-2191. doi: 10.1007/s00394-016-1262-5. Epub 2016 
+      Jul 6.
