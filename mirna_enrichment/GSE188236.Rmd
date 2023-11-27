@@ -30,6 +30,8 @@ with 5 replicates.
 library("DESeq2")
 library("plyr")
 library("dplyr")
+library("kableExtra")
+library("readxl")
 
 ```
 
@@ -45,14 +47,14 @@ Repeat the above but without the background list.
 
 ```{r,load}
 
-if ( file.exists("GSE188236_miRcounts.rds") )
+if ( file.exists("GSE188236_miRcounts.rds") ) {
 
-df_mir <- readRDS("GSE188236_miRcounts.rds")
+  df_mir <- readRDS("GSE188236_miRcounts.rds")
 
-df_mrna <- readRDS("GSE188236_mRNAcounts.rds")
+  df_mrna <- readRDS("GSE188236_mRNAcounts.rds")
 
 } else {
-  download.file(""https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE188236&format=file",
+  download.file("https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE188236&format=file",
   destfile="GSE188236.tar")
   untar("GSE188236.tar")
 
@@ -115,7 +117,21 @@ summary(rowMeans(df_mrna_f))
 
 ```
 
-## Differential analysis
+## Load ensembl 105 data
+
+Not sure whether this is the correct one.
+Just a guess.
+There are 60666 rows of data and 60531 in the v105 annotation which is quite close.
+Data was downloaded from Ensembl biomart archive 27th Nov 2023.
+
+```{r,anno}
+
+gt <- read.table("mart_export.txt",sep="\t",header=TRUE)
+
+```
+
+## Differential analysis miRNA
+
 
 ```{r,deseq}
 
@@ -130,15 +146,74 @@ z<- results(res)
 vsd <- vst(dds, blind=FALSE,nsub=200)
 zz <- cbind(as.data.frame(z),assay(vsd))
 dge_mir <- as.data.frame(zz[order(zz$pvalue),])
+
 dge_mir[1:20,1:6] %>%
   kbl(caption = "Top gene expression differences between ctrl and TGFB1 treated cells") %>%
   kable_paper("hover", full_width = F)
 
+mir_up <- rownames(subset(dge_mir,padj<0.05 & log2FoldChange >0 ))
+mir_up
+mir_up <- gt[which(gt$Gene.stable.ID.version %in% mir_up),]
+mir_up$Gene.name <- tolower(mir_up$Gene.name)
+mir_up
 
+mir_dn <- rownames(subset(dge_mir,padj<0.05 & log2FoldChange <0 ))
+mir_dn
+mir_dn <- gt[which(gt$Gene.stable.ID.version %in% mir_dn),]
+mir_dn
+mir_dn$Gene.name <- tolower(mir_dn$Gene.name)
+mir_dn
 
 
 ```
 
+## Fetch target gene database
+
+```{r,miRtarbase}
+
+#options(timeout=1000)
+#download.file("https://mirtarbase.cuhk.edu.cn/~miRTarBase/miRTarBase_2022/cache/download/9.0/hsa_MTI.xlsx",
+#destfile="hsa_MTI.xlsx",)
+
+mirtarbase <- read_excel("hsa_MTI.xlsx")
+
+# mir up
+mir_up_gn <- mir_up$Gene.name
+mir_up_gn2 <- gsub("$","-",gsub("mir","hsa-miR-",mir_up_gn))
+mir_up_gn2 <- gsub("a2","a",mir_up_gn2)
+
+up_targets <- lapply(mir_up_gn2,function(x) {
+  a <- unique(unlist(as.vector(mirtarbase[grep(x,mirtarbase$miRNA),"Target Gene"])))
+  y <- gsub("-$","",x)
+  b <- unique(unlist(as.vector(mirtarbase[which(mirtarbase$miRNA %in% y),"Target Gene"])))
+  d <- unique(c(a,b))
+  return(d)
+})
+
+lapply(up_targets,length)
+up_targets <- unique(unlist(up_targets))
+up_targets
+length(up_targets)
+
+# mir dn
+mir_dn_gn <- mir_dn$Gene.name
+mir_dn_gn2 <- gsub("$","-",gsub("mir","hsa-miR-",mir_dn_gn))
+
+dn_targets <- lapply(mir_dn_gn2,function(x) {
+  a <- unique(unlist(as.vector(mirtarbase[grep(x,mirtarbase$miRNA),"Target Gene"])))
+  y <- gsub("-$","",x)
+  b <- unique(unlist(as.vector(mirtarbase[which(mirtarbase$miRNA %in% y),"Target Gene"])))
+  d <- unique(c(a,b))
+  return(d)
+})
+
+lapply(dn_targets,length)
+dn_targets <- unique(unlist(dn_targets))
+dn_targets
+length(dn_targets)
+
+
+```
 
 ## Conclusions
 
