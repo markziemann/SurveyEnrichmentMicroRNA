@@ -1,0 +1,145 @@
+---
+title: "GSE188236: miRNA target enrichment analysis - the effect of background list"
+author: "Mark Ziemann"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    code_folding: hide
+    fig_width: 7
+    fig_height: 7
+theme: cosmo
+---
+
+Source: TBA
+
+## Introduction
+
+Most popular tools that do enrichment analysis of microRNA target genes don't accept a background list.
+Let's see what happens when we use a background list for this type of analysis.
+GSE188236 was used because it has both miR and mRNA datasets from the same samples, which means we can
+generate a background for the microRNA target gene pathway enrichment analysis.
+This dataset examines the effect of TGFB1 expression and co-treatment with SB431542 is a selective and
+potent inhibitor of the TGF-beta/Activin/Nodal pathway.
+For the sake of this analysis we will only be looking at the comparison of control and TGFB1 cells,
+with 5 replicates.
+
+```{r,lib}
+
+library("DESeq2")
+library("plyr")
+library("dplyr")
+
+```
+
+## Method overview
+
+Load count data from GEO, conduct DESeq2 and make short list of up and downregulated genes.
+Select target mRNAs using a database.
+Discard any target mRNAs that aren't expressed at sufficient level to be differential.
+Conduct enrichment analysis on these target mRNAs.
+Repeat the above but without the background list.
+
+## Load data
+
+```{r,load}
+
+if ( file.exists("GSE188236_miRcounts.rds") )
+
+df_mir <- readRDS("GSE188236_miRcounts.rds")
+
+df_mrna <- readRDS("GSE188236_mRNAcounts.rds")
+
+} else {
+  download.file(""https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE188236&format=file",
+  destfile="GSE188236.tar")
+  untar("GSE188236.tar")
+
+  files_mrna <- c("GSM5673193_CTRL_1.txt.gz","GSM5673194_CTRL_2.txt.gz","GSM5673195_CTRL_3.txt.gz",
+    "GSM5673196_CTRL_4.txt.gz","GSM5673197_CTRL_5.txt.gz","GSM5673198_TGFB1_1.txt.gz",
+    "GSM5673199_TGFB1_2.txt.gz","GSM5673200_TGFB1_3.txt.gz","GSM5673201_TGFB1_4.txt.gz",
+    "GSM5673202_TGFB1_5.txt.gz")
+
+  dat_mrna <- lapply(files_mrna,function(f) {
+    read.table(f, header=TRUE)
+  })
+
+  df_mrna <- join_all(dat_mrna)
+
+  rownames(df_mrna) <- df_mrna$Ensembl_gene_id ; df_mrna$Ensembl_gene_id=NULL
+
+  saveRDS(object=df_mrna,file="GSE188236_mRNAcounts.rds")
+
+  files_mir <- c("GSM5673208_CTRL_1.txt.gz", "GSM5673209_CTRL_2.txt.gz", "GSM5673210_CTRL_3.txt.gz",
+    "GSM5673211_CTRL_4.txt.gz", "GSM5673212_CTRL_5.txt.gz", "GSM5673213_TGFB1_1.txt.gz",
+    "GSM5673214_TGFB1_2.txt.gz", "GSM5673215_TGFB1_3.txt.gz", "GSM5673216_TGFB1_4.txt.gz",
+    "GSM5673217_TGFB1_5.txt.gz")
+
+  dat_mir <- lapply(files_mir,function(f) {
+    read.table(f, header=TRUE)
+  })
+
+  df_mir <- join_all(dat_mir)
+
+  rownames(df_mir) <- df_mir$Ensembl_ID ; df_mir$Ensembl_ID=NULL
+
+  saveRDS(object=df_mir,file="GSE188236_miRcounts.rds")
+
+  dir.create("GSE188236")
+
+  delfiles <- list.files(".",pattern="txt.gz")
+
+  file.copy(delfiles,"GSE188236",overwrite=TRUE)
+
+   unlink(delfiles)
+}
+
+```
+
+## Filtering
+
+```{r,filtering}
+
+dim(df_mir)
+summary(rowMeans(df_mir))
+df_mir_f <- df_mir[which(rowMeans(df_mir)>9),]
+dim(df_mir_f)
+df_mir_f <- round(df_mir_f)
+
+dim(df_mrna)
+summary(rowMeans(df_mrna))
+df_mrna_f <- df_mrna[which(rowMeans(df_mrna)>9),]
+dim(df_mrna_f)
+summary(rowMeans(df_mrna_f))
+
+```
+
+## Differential analysis
+
+```{r,deseq}
+
+ss <- data.frame(colnames(df_mir_f))
+rownames(ss) <- ss[,1]
+colnames(ss) <- "samplename"
+ss$trt <- factor(grepl("TGF",ss$samplename))
+
+dds <- DESeqDataSetFromMatrix(countData = df_mir_f , colData = ss, design = ~ trt )
+res <- DESeq(dds)
+z<- results(res)
+vsd <- vst(dds, blind=FALSE,nsub=200)
+zz <- cbind(as.data.frame(z),assay(vsd))
+dge_mir <- as.data.frame(zz[order(zz$pvalue),])
+dge_mir[1:20,1:6] %>%
+  kbl(caption = "Top gene expression differences between ctrl and TGFB1 treated cells") %>%
+  kable_paper("hover", full_width = F)
+
+
+
+
+```
+
+
+## Conclusions
+
+
