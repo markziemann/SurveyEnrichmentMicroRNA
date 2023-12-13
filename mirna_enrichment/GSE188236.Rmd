@@ -340,23 +340,23 @@ dn_bg_res_sets <- subset(dn_bg_res,padj<0.05 & foldenrichment >2)$pathway
 ```
 
 
-```{r,compare2}
+```{r,compare2,fig.height=5,fig.width=5}
 
 v1 <- list("WG up"=up_wg_res_sets,"BG up"=up_bg_res_sets,
   "WG dn"=dn_wg_res_sets,"BG dn"=dn_bg_res_sets )
 
-plot(euler(v1),quantities = TRUE, main="Effect of background list")
+plot(euler(v1),quantities = TRUE,main="Effect of background list")
 
 ```
 
 Now compare miR targets up and down together with observed up and down.
 
-```{r,compare3}
+```{r,compare3,fig.height=5,fig.width=5}
 
 v2 <- list("up DGE"=mrna_up, "dn DGE"=mrna_dn,
   "up miR targets"=up_targets, "dn miR targets"=dn_targets)
 
-plot(euler(v2),quantities = TRUE, main="Do miR targets undergo differential expression?")
+plot(euler(v2),quantities = TRUE, main="miR targets and DEGs?")
 
 ```
 
@@ -364,7 +364,7 @@ Interesting how low the enrichment is.
 
 Now check with 100 genes.
 
-```{r,compare4}
+```{r,compare4,fig.height=5,fig.width=5}
 
 mrna_up <- rownames(head(subset(dge_mrna,log2FoldChange >0 ),129))
 str(mrna_up)
@@ -381,13 +381,13 @@ str(mrna_dn)
 v2 <- list("up DGE"=mrna_up, "dn DGE"=mrna_dn,
   "up miR targets"=up_targets, "dn miR targets"=dn_targets)
 
-plot(euler(v2),quantities = TRUE, main="Do miR targets undergo differential expression?")
+plot(euler(v2),quantities = TRUE, main="miR targets and DEGs?")
 
 ```
 
 Now check with 1000 genes.
 
-```{r,compare3}
+```{r,compare5,fig.height=5,fig.width=5}
 
 mrna_up <- rownames(head(subset(dge_mrna,log2FoldChange >0 ),1288))
 str(mrna_up)
@@ -404,13 +404,13 @@ str(mrna_dn)
 v2 <- list("up DGE"=mrna_up, "dn DGE"=mrna_dn,
   "up miR targets"=up_targets, "dn miR targets"=dn_targets)
 
-plot(euler(v2),quantities = TRUE, main="Do miR targets undergo differential expression?")
+plot(euler(v2),quantities = TRUE, main="miR targets and DEGs?")
 
 ```
 
 Now check with 250 genes.
 
-```{r,compare4}
+```{r,compare6}
 
 mrna_up <- rownames(head(subset(dge_mrna,log2FoldChange >0 ),321))
 str(mrna_up)
@@ -453,14 +453,14 @@ mrna_dn_res_sets <- subset(mrna_dn_res,padj<0.05 & foldenrichment >1)$pathway
 
 ```
 
-```{r,euler_pathways}
+```{r,euler_pathways,fig.height=5,fig.width=5}
 
 v3 <- list("dn miR target"=dn_bg_res_sets,
   "up miR target"=up_bg_res_sets,
   "up mRNA"=mrna_up_res_sets,
   "dn mRNA"=mrna_dn_res_sets)
 
-plot(euler(v3),quantities = TRUE,main="Do miR target pathways undergo differential expression?")
+plot(euler(v3),quantities = TRUE, main="miR target and DE pathways")
 
 ```
 
