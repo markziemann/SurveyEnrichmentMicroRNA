@@ -242,22 +242,32 @@ First try with whole genome as background.
 
 ```{r,fora_wgbg}
 
-wgbg <- unique(wgbg)
+wgbg <- unique(gt$Gene.name)
 wgbg <- wgbg[which(wgbg!="")]
 
 setdiff(up_targets,wgbg)
+length(setdiff(up_targets,wgbg))
 length(setdiff(up_targets,wgbg))/length(up_targets)
-
 up_wg_res <- fora(pathways=kegg, genes=up_targets,  universe=wgbg, minSize = 5)
-
 nbg = length(wgbg)
 nsel = length(intersect(up_targets,wgbg))
 up_wg_res$foldenrichment <- (up_wg_res$overlap / nsel ) / ( up_wg_res$size / nbg )
-
 head(up_wg_res)
 nrow(up_wg_res)
 nrow(subset(up_wg_res,padj<0.05 & foldenrichment >2))
 up_wg_res_sets <- subset(up_wg_res,padj<0.05 & foldenrichment >2)$pathway
+
+setdiff(dn_targets,wgbg)
+length(setdiff(dn_targets,wgbg))
+length(setdiff(dn_targets,wgbg))/length(dn_targets)
+dn_wg_res <- fora(pathways=kegg, genes=dn_targets,  universe=wgbg, minSize = 5)
+nbg = length(wgbg)
+nsel = length(intersect(dn_targets,wgbg))
+dn_wg_res$foldenrichment <- (dn_wg_res$overlap / nsel ) / ( dn_wg_res$size / nbg )
+head(dn_wg_res)
+nrow(dn_wg_res)
+nrow(subset(dn_wg_res,padj<0.05 & foldenrichment >2))
+dn_wg_res_sets <- subset(dn_wg_res,padj<0.05 & foldenrichment >2)$pathway
 
 ```
 
@@ -266,34 +276,55 @@ Now try with proper background.
 ```{r,fora_bg}
 
 setdiff(up_targets,bg)
-
+length(setdiff(up_targets,bg))
 length(intersect(up_targets,bg))
-
 length(up_targets)
-
 length(setdiff(up_targets,bg))/length(up_targets)
-
 up_bg_res <- fora(pathways=kegg, genes=up_targets,  universe=bg, minSize = 5)
-
 nbg = length(bg)
 nsel = length(intersect(up_targets,bg))
 up_bg_res$foldenrichment <- (up_bg_res$overlap / nsel ) / ( up_bg_res$size / nbg )
-
 head(up_bg_res)
 nrow(up_bg_res)
 nrow(subset(up_bg_res,padj<0.05 & foldenrichment >2))
 up_bg_res_sets <- subset(up_bg_res,padj<0.05 & foldenrichment >2)$pathway
 
+setdiff(dn_targets,bg)
+length(setdiff(dn_targets,bg))
+length(intersect(dn_targets,bg))
+length(dn_targets)
+length(setdiff(dn_targets,bg))/length(dn_targets)
+dn_bg_res <- fora(pathways=kegg, genes=dn_targets,  universe=bg, minSize = 5)
+nbg = length(bg)
+nsel = length(intersect(dn_targets,bg))
+dn_bg_res$foldenrichment <- (dn_bg_res$overlap / nsel ) / ( dn_bg_res$size / nbg )
+head(dn_bg_res)
+nrow(dn_bg_res)
+nrow(subset(dn_bg_res,padj<0.05 & foldenrichment >2))
+dn_bg_res_sets <- subset(dn_bg_res,padj<0.05 & foldenrichment >2)$pathway
+
 ```
 
 Compare WG and BG.
 
-```{r,compare}
+```{r,compare1}
 
 v1 <- list("WG"=up_wg_res_sets,"BG"=up_bg_res_sets)
 plot(euler(v1),quantities = TRUE)
 
 ```
+
+Now separate up and down.
+
+```{r,compare2}
+
+v1 <- list("WG up"=up_wg_res_sets,"BG up"=up_bg_res_sets,
+  "WG dn"=dn_wg_res_sets,"BG dn"=dn_bg_res_sets  )
+
+plot(euler(v1),quantities = TRUE)
+
+```
+
 
 ## Now pathway analysis of long RNA-seq
 
