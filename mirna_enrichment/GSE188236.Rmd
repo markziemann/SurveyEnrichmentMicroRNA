@@ -133,8 +133,7 @@ gt <- read.table("mart_export.txt",sep="\t",header=TRUE)
 
 ## Differential analysis miRNA
 
-
-```{r,deseq}
+```{r,deseq1}
 
 ss <- data.frame(colnames(df_mir_f))
 rownames(ss) <- ss[,1]
@@ -149,7 +148,7 @@ zz <- cbind(as.data.frame(z),assay(vsd))
 dge_mir <- as.data.frame(zz[order(zz$pvalue),])
 
 dge_mir[1:20,1:6] %>%
-  kbl(caption = "Top gene expression differences between ctrl and TGFB1 treated cells") %>%
+  kbl(caption = "Top miRNA expression differences between ctrl and TGFB1 treated cells") %>%
   kable_paper("hover", full_width = F)
 
 mir_up <- rownames(subset(dge_mir,padj<0.05 & log2FoldChange >0 ))
@@ -165,6 +164,41 @@ mir_dn
 mir_dn$Gene.name <- tolower(mir_dn$Gene.name)
 mir_dn
 
+```
+
+## Differential analysis mRNA
+
+```{r,deseq2}
+
+ss <- data.frame(colnames(df_mrna_f))
+rownames(ss) <- ss[,1]
+colnames(ss) <- "samplename"
+ss$trt <- factor(grepl("TGF",ss$samplename))
+
+dds <- DESeqDataSetFromMatrix(countData = df_mrna_f , colData = ss, design = ~ trt )
+res <- DESeq(dds)
+z<- results(res)
+vsd <- vst(dds, blind=FALSE,nsub=200)
+zz <- cbind(as.data.frame(z),assay(vsd))
+dge_mrna <- as.data.frame(zz[order(zz$pvalue),])
+
+dge_mrna[1:20,1:6] %>%
+  kbl(caption = "Top mRNA gene expression differences between ctrl and TGFB1 treated cells") %>%
+  kable_paper("hover", full_width = F)
+
+mrna_up <- rownames(subset(dge_mrna,padj<0.05 & log2FoldChange >0 ))
+mrna_up
+mrna_up <- gt[which(gt$Gene.stable.ID %in% mrna_up),]
+mrna_up <- unique(mrna_up$Gene.name)
+mrna_up <- mrna_up[mrna_up != ""]
+mrna_up
+
+mrna_dn <- rownames(subset(dge_mrna,padj<0.05 & log2FoldChange <0 ))
+mrna_dn
+mrna_dn <- gt[which(gt$Gene.stable.ID %in% mrna_dn),]
+mrna_dn <- unique(mrna_dn$Gene.name)
+mrna_dn <- mrna_dn[mrna_dn != ""]
+mrna_dn
 
 ```
 
@@ -215,7 +249,7 @@ length(dn_targets)
 
 ```
 
-## Enrichment with FORA
+## miR target Enrichment with FORA
 
 ```{r,orabg}
 
@@ -248,7 +282,7 @@ wgbg <- wgbg[which(wgbg!="")]
 setdiff(up_targets,wgbg)
 length(setdiff(up_targets,wgbg))
 length(setdiff(up_targets,wgbg))/length(up_targets)
-up_wg_res <- fora(pathways=kegg, genes=up_targets,  universe=wgbg, minSize = 5)
+up_wg_res <- fora(pathways=reactome, genes=up_targets,  universe=wgbg, minSize = 5)
 nbg = length(wgbg)
 nsel = length(intersect(up_targets,wgbg))
 up_wg_res$foldenrichment <- (up_wg_res$overlap / nsel ) / ( up_wg_res$size / nbg )
@@ -260,7 +294,7 @@ up_wg_res_sets <- subset(up_wg_res,padj<0.05 & foldenrichment >2)$pathway
 setdiff(dn_targets,wgbg)
 length(setdiff(dn_targets,wgbg))
 length(setdiff(dn_targets,wgbg))/length(dn_targets)
-dn_wg_res <- fora(pathways=kegg, genes=dn_targets,  universe=wgbg, minSize = 5)
+dn_wg_res <- fora(pathways=reactome, genes=dn_targets,  universe=wgbg, minSize = 5)
 nbg = length(wgbg)
 nsel = length(intersect(dn_targets,wgbg))
 dn_wg_res$foldenrichment <- (dn_wg_res$overlap / nsel ) / ( dn_wg_res$size / nbg )
@@ -280,7 +314,7 @@ length(setdiff(up_targets,bg))
 length(intersect(up_targets,bg))
 length(up_targets)
 length(setdiff(up_targets,bg))/length(up_targets)
-up_bg_res <- fora(pathways=kegg, genes=up_targets,  universe=bg, minSize = 5)
+up_bg_res <- fora(pathways=reactome, genes=up_targets,  universe=bg, minSize = 5)
 nbg = length(bg)
 nsel = length(intersect(up_targets,bg))
 up_bg_res$foldenrichment <- (up_bg_res$overlap / nsel ) / ( up_bg_res$size / nbg )
@@ -294,7 +328,7 @@ length(setdiff(dn_targets,bg))
 length(intersect(dn_targets,bg))
 length(dn_targets)
 length(setdiff(dn_targets,bg))/length(dn_targets)
-dn_bg_res <- fora(pathways=kegg, genes=dn_targets,  universe=bg, minSize = 5)
+dn_bg_res <- fora(pathways=reactome, genes=dn_targets,  universe=bg, minSize = 5)
 nbg = length(bg)
 nsel = length(intersect(dn_targets,bg))
 dn_bg_res$foldenrichment <- (dn_bg_res$overlap / nsel ) / ( dn_bg_res$size / nbg )
@@ -305,28 +339,130 @@ dn_bg_res_sets <- subset(dn_bg_res,padj<0.05 & foldenrichment >2)$pathway
 
 ```
 
-Compare WG and BG.
-
-```{r,compare1}
-
-v1 <- list("WG"=up_wg_res_sets,"BG"=up_bg_res_sets)
-plot(euler(v1),quantities = TRUE)
-
-```
-
-Now separate up and down.
 
 ```{r,compare2}
 
 v1 <- list("WG up"=up_wg_res_sets,"BG up"=up_bg_res_sets,
-  "WG dn"=dn_wg_res_sets,"BG dn"=dn_bg_res_sets  )
+  "WG dn"=dn_wg_res_sets,"BG dn"=dn_bg_res_sets )
 
-plot(euler(v1),quantities = TRUE)
+plot(euler(v1),quantities = TRUE, main="Effect of background list")
 
 ```
 
+Now compare miR targets up and down together with observed up and down.
+
+```{r,compare3}
+
+v2 <- list("up DGE"=mrna_up, "dn DGE"=mrna_dn,
+  "up miR targets"=up_targets, "dn miR targets"=dn_targets)
+
+plot(euler(v2),quantities = TRUE, main="Do miR targets undergo differential expression?")
+
+```
+
+Interesting how low the enrichment is.
+
+Now check with 100 genes.
+
+```{r,compare4}
+
+mrna_up <- rownames(head(subset(dge_mrna,log2FoldChange >0 ),129))
+str(mrna_up)
+mrna_up <- unique(gt[which(gt$Gene.stable.ID %in% mrna_up),"Gene.name"])
+mrna_up <- mrna_up[mrna_up != ""]
+str(mrna_up)
+
+mrna_dn <- rownames(head(subset(dge_mrna,log2FoldChange <0 ),105))
+str(mrna_dn)
+mrna_dn <- unique(gt[which(gt$Gene.stable.ID %in% mrna_dn),"Gene.name"])
+mrna_dn <- mrna_dn[mrna_dn != ""]
+str(mrna_dn)
+
+v2 <- list("up DGE"=mrna_up, "dn DGE"=mrna_dn,
+  "up miR targets"=up_targets, "dn miR targets"=dn_targets)
+
+plot(euler(v2),quantities = TRUE, main="Do miR targets undergo differential expression?")
+
+```
+
+Now check with 1000 genes.
+
+```{r,compare3}
+
+mrna_up <- rownames(head(subset(dge_mrna,log2FoldChange >0 ),1288))
+str(mrna_up)
+mrna_up <- unique(gt[which(gt$Gene.stable.ID %in% mrna_up),"Gene.name"])
+mrna_up <- mrna_up[mrna_up != ""]
+str(mrna_up)
+
+mrna_dn <- rownames(head(subset(dge_mrna,log2FoldChange <0 ),1080))
+str(mrna_dn)
+mrna_dn <- unique(gt[which(gt$Gene.stable.ID %in% mrna_dn),"Gene.name"])
+mrna_dn <- mrna_dn[mrna_dn != ""]
+str(mrna_dn)
+
+v2 <- list("up DGE"=mrna_up, "dn DGE"=mrna_dn,
+  "up miR targets"=up_targets, "dn miR targets"=dn_targets)
+
+plot(euler(v2),quantities = TRUE, main="Do miR targets undergo differential expression?")
+
+```
+
+Now check with 250 genes.
+
+```{r,compare4}
+
+mrna_up <- rownames(head(subset(dge_mrna,log2FoldChange >0 ),321))
+str(mrna_up)
+mrna_up <- unique(gt[which(gt$Gene.stable.ID %in% mrna_up),"Gene.name"])
+mrna_up <- mrna_up[mrna_up != ""]
+str(mrna_up)
+
+mrna_dn <- rownames(head(subset(dge_mrna,log2FoldChange <0 ),266))
+str(mrna_dn)
+mrna_dn <- unique(gt[which(gt$Gene.stable.ID %in% mrna_dn),"Gene.name"])
+mrna_dn <- mrna_dn[mrna_dn != ""]
+str(mrna_dn)
+
+```
 
 ## Now pathway analysis of long RNA-seq
+
+Use top 250 genes in either direction for enrichment analysis.
+There was a paper by Tarca recommending this.
+
+```{r,mrna_fora_bg}
+
+mrna_up_res <- fora(pathways=reactome, genes=mrna_up,  universe=bg, minSize = 5)
+nbg = length(bg)
+nsel = length(intersect(mrna_up,bg))
+mrna_up_res$foldenrichment <- (mrna_up_res$overlap / nsel ) / ( mrna_up_res$size / nbg )
+head(mrna_up_res)
+nrow(mrna_up_res)
+nrow(subset(mrna_up_res,padj<0.05 & foldenrichment >0))
+mrna_up_res_sets <- subset(mrna_up_res,padj<0.05 & foldenrichment >1)$pathway
+
+mrna_dn_res <- fora(pathways=reactome, genes=mrna_dn,  universe=bg, minSize = 5)
+nbg = length(bg)
+nsel = length(intersect(mrna_dn,bg))
+mrna_dn_res$foldenrichment <- (mrna_dn_res$overlap / nsel ) / ( mrna_dn_res$size / nbg )
+head(mrna_dn_res)
+nrow(mrna_dn_res)
+nrow(subset(mrna_dn_res,padj<0.05 & foldenrichment >0))
+mrna_dn_res_sets <- subset(mrna_dn_res,padj<0.05 & foldenrichment >1)$pathway
+
+```
+
+```{r,euler_pathways}
+
+v3 <- list("dn miR target"=dn_bg_res_sets,
+  "up miR target"=up_bg_res_sets,
+  "up mRNA"=mrna_up_res_sets,
+  "dn mRNA"=mrna_dn_res_sets)
+
+plot(euler(v3),quantities = TRUE,main="Do miR target pathways undergo differential expression?")
+
+```
 
 ## Conclusions
 
